@@ -1,0 +1,16 @@
+{
+  "name": "portfolioSite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jekyll": "^3.0.0-beta1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [],
+  "author": "Javier Garcia",
+  "license": "MIT"
+}
