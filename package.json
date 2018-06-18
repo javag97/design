@@ -8,7 +8,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "bundle exec jekyll serve --livereload",
+    "clean": "rm -r _site",
+
+    "prestart": "npm run clean"
 },
   "keywords": [],
   "author": "Javier Garcia",
