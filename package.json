@@ -1,18 +1,18 @@
 {
   "name": "portfolioSite",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a front-end developer/designer portfolio site for Javier Garcia.",
   "main": "index.js",
   "dependencies": {
     "jekyll": "^3.0.0-beta1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "module": "^1.2.5"
+  },
   "scripts": {
     "start": "bundle exec jekyll serve --livereload",
-    "clean": "rm -r _site",
-    
-    "prestart": "npm run clean",
-    "preclean": "ps aux | grep jekyll" 
+    "clean": "rm -r _site || true",
+    "prestart": "npm run clean"
   },
   "keywords": [],
   "author": "Javier Garcia",
