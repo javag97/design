@@ -3,14 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-# Test
+# THE CREATION OF ADAM
 
-## TEST TEST
+### INTRODUCTION
 
-Testing some of the md stuff in here.
-test.font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;font-weight: 700;
-test.
+SLO Donut Co. is a popular donut shop located about two miles from Cal Poly’s campus. When I walked into SLODoCo and talked to the manager, she mentioned that SLODoCo brings in about $200,000 of revenue every month. It comes to no surprise that this business knows how to attract people and has built a very successful business because of that. 
 
-
-sadsadassda
-sdadsasda

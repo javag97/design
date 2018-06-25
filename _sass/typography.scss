@@ -1,27 +1,51 @@
+body{
+	padding: 0px $base-unit*6;
+	@media #{$media-query}{
+		padding: 0px 23.264%;
+		width: 39.65%;
+	}
+}
 
-
-body {
+p{
 	font-family: adelle-sans, sans-serif;
 	font-style: normal;
 	font-weight: 400;
-	font-size: 18px;
+	font-size: $base-unit * 3;
 	letter-spacing: 0;
-	line-height: 27px;
+	line-height: $base-unit * 5;
+	margin: 0px 0px $base-unit * 2;
+	
 }
 
-h1 {
+h1{
 	font-family: adelle-sans, sans-serif;
-	font-size: 66px;
-	line-height: 72px;
-	color: #514E4E;
+	font-size: $base-unit * 10;
+	line-height: $base-unit * 11;
+	color: $heading-color;
 	letter-spacing: 0;
-	font-weight: 700;
+	font-weight: 100;
+	margin: $base-unit*6 0px $base-unit*3;
+	@media #{$media-query}{
+	font-size: $base-unit * 15;
+	line-height: $base-unit * 16;
+	}
 }
 
 h2{
 	font-family: adelle-sans, sans-serif;
+	font-size: $base-unit * 7;
+	line-height: $base-unit * 8;
+	color: $heading-color;
+	letter-spacing: $base-unit / 6;
 	font-weight: 700;
-	font-size: 24px;
-	color: #514E4E;
-	letter-spacing: 1px;
+	margin: $base-unit*6 0px $base-unit*3;
+}
+
+h3{
+	font-family: adelle-sans, sans-serif;
+	font-weight: 700;
+	font-size: $base-unit * 4;
+	color: $heading-color;
+	letter-spacing: $base-unit / 6;
+	margin: $base-unit*6 0px $base-unit*3;
 }
