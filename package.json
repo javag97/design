@@ -3,15 +3,13 @@
   "version": "1.0.0",
   "description": "This is a front-end developer/designer portfolio site for Javier Garcia.",
   "main": "index.js",
-  "dependencies": {
-    "jekyll": "^3.0.0-beta1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "module": "^1.2.5"
+    "jekyll": "*"
   },
   "scripts": {
     "start": "bundle exec jekyll serve --livereload",
-    "clean": "rm -r _site || true",
+    "clean": "bundle exec jekyll clean",
     "prestart": "npm run clean"
   },
   "keywords": [],

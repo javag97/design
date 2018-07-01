@@ -3,6 +3,7 @@ body{
 	@media #{$media-query}{
 		padding: 0px 23.264%;
 		width: 39.65%;
+		max-width: 800px;
 	}
 }
 
