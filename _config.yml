@@ -22,6 +22,7 @@ url: https://javag97.github.io/portfolio/ # the base hostname & protocol for you
 github_username:  javag97
 
 # Build settings
+source: app
 markdown: kramdown
 plugins:
   - jekyll-feed
