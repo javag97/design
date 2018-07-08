@@ -1,21 +1,21 @@
 {
-    "project_logo": null,
+    "project_logo": "/assets/images/logo.png",
     "project_favicon": "favicon.png",
-    "project_name": null,
+    "project_name": "Affine Design",
     "project_url": null,
-    "copyright_start_year": null,
+    "copyright_start_year": "2018",
     "client_name": null,
     "client_url": null,
     "creators": [
         {
-            "name": null,
-            "url": null
+            "name": "Javier Garcia",
+            "url": "https://github.com/javag97/"
         }
     ],
     "theme": {
         "border_color": "#E0E6ED",
         "highlight_color": "#F9FAFC",
-        "brand_color": "#00585C",
+        "brand_color": "#502EA4",
         "background_color": "#FFFFFF",
         "code_highlight_theme": "github",
         "override_code_highlight_bg": "#F9FAFC",
@@ -49,6 +49,19 @@
             }
         ]
     },
-    "groups": [],
+    "groups": [
+        {
+            "name": "button",
+            "title": "Buttons",
+            "components": [
+                {
+                    "group": "button",
+                    "name": "primary",
+                    "title": "Primary Button",
+                    "width": "half"
+                }
+            ]
+        }
+    ],
     "version": "1.9.5"
 }
