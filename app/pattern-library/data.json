@@ -21,7 +21,7 @@
         "override_code_highlight_bg": "#F9FAFC",
         "sample_dark_background": "#333333",
         "show_project_name": true,
-        "show_version": true,
+        "show_version": false,
         "max_width": null,
         "titles": {
             "library_title": "Pattern Library",
@@ -30,7 +30,7 @@
         }
     },
     "assets": {
-        "css": [],
+        "css": ["/assets/styles.css"],
         "js": []
     },
     "font_libraries": {
