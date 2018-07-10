@@ -39,8 +39,8 @@
         "google_web_fonts": null
     },
     "content": {
-        "show_first_page_on_load": true,
-        "title": "Overview",
+        "show_first_page_on_load": false,
+        "title": "Guidelines",
         "pages": [
             {
                 "name": "introduction",
