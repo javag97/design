@@ -1,10 +1,11 @@
-.link---button{
-/* Rectangle: */
-padding: 20px;
+.link--button{
+display: flex;
+flex-direction:row;
+padding:$base-unit*3;
 background: #502EA4;
 border-radius: 5px;
-/* Read more: */
 color: #FFFFFF;
 text-align: center;
-line-height: 28px;
+justify-content: center;
 }
+
