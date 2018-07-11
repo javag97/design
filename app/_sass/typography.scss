@@ -12,33 +12,33 @@ p,a{
 
 h1{
 	font-family: adelle-sans, sans-serif;
-	font-size: $base-unit * 10;
-	line-height: $base-unit * 11;
+	font-size: $base-unit * 15;
+	line-height: $base-unit * 16;
 	color: $heading-color;
 	letter-spacing: 0;
 	font-weight: 100;
 	margin: $base-unit*6 0px $base-unit*3;
 	@media #{$medium-device}{
-	font-size: $base-unit * 15;
-	line-height: $base-unit * 16;
+		font-size: $base-unit * 22;
+		line-height: $base-unit * 23;
 	}
 }
 
 h2{
 	font-family: adelle-sans, sans-serif;
-	font-size: $base-unit * 7;
-	line-height: $base-unit * 8;
+	font-size: $base-unit * 11;
+	line-height: $base-unit * 12;
 	color: $heading-color;
-	letter-spacing: $base-unit / 6;
+	letter-spacing: $base-unit / 4;
 	font-weight: 700;
-	margin: $base-unit*6 0px $base-unit*3;
+	margin: $base-unit*9 0px $base-unit*4;
 }
 
 h3{
 	font-family: adelle-sans, sans-serif;
 	font-weight: 700;
-	font-size: $base-unit * 4;
+	font-size: $base-unit * 6;
 	color: $heading-color;
-	letter-spacing: $base-unit / 6;
-	margin: $base-unit*6 0px $base-unit*3;
+	letter-spacing: $base-unit / 4;
+	margin: $base-unit*9 0px $base-unit*4;
 }
