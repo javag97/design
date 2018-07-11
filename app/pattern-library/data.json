@@ -24,8 +24,8 @@
         "show_version": false,
         "max_width": null,
         "titles": {
-            "library_title": "Pattern Library",
-            "pages_title": "Overview",
+            "library_title": "Design System",
+            "pages_title": null,
             "components_title": "Components"
         }
     },
@@ -110,6 +110,18 @@
                     "group": "button",
                     "name": "primary",
                     "title": "Primary Button",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "card",
+            "title": "Cards",
+            "components": [
+                {
+                    "group": "card",
+                    "name": "default",
+                    "title": "Card default",
                     "width": "half"
                 }
             ]
