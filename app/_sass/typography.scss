@@ -1,6 +1,6 @@
 
 p,a{
-	font-family: adelle-sans, sans-serif;
+	font-family: $font-stack;
 	font-style: normal;
 	font-weight: 400;
 	font-size: $base-unit * 5;
@@ -11,7 +11,7 @@ p,a{
 }
 
 h1{
-	font-family: adelle-sans, sans-serif;
+	font-family: $font-stack;
 	font-size: $base-unit * 10;
 	line-height: $base-unit * 11;
 	color: $heading-color;
@@ -25,7 +25,7 @@ h1{
 }
 
 h2{
-	font-family: adelle-sans, sans-serif;
+	font-family: $font-stack;
 	font-size: $base-unit * 7;
 	line-height: $base-unit * 8;
 	color: $heading-color;
@@ -35,7 +35,7 @@ h2{
 }
 
 h3{
-	font-family: adelle-sans, sans-serif;
+	font-family: $font-stack;
 	font-weight: 700;
 	font-size: $base-unit * 4;
 	color: $heading-color;
