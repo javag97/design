@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "jekyll": "*"
+    "jekyll": "3.6.2"
   },
   "scripts": {
     "start": "bundle exec jekyll serve",
