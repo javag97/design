@@ -10,8 +10,10 @@
 	
 }
 
+
+
 .heading-1{
-	font-family: adelle-sans, sans-serif;
+	font-family: $font-stack;
 	font-size: $base-unit * 15;
 	line-height: $base-unit * 16;
 	color: $heading-color;
@@ -24,17 +26,30 @@
 	}
 }
 
+
 .heading-2{
-	font-family: adelle-sans, sans-serif;
-	font-size: $base-unit * 11;
-	line-height: $base-unit * 12;
+
+font-family:$font-stack;
+font-size: $base-unit*16;
+line-height: $base-unit*17;
+color: $heading-color;
+font-weight: 700;
+letter-spacing: $base-unit / 4;
+text-transform: uppercase;
+}
+
+.heading-3{
+	font-family: $font-stack;
+	font-size: $base-unit * 10;
+	line-height: $base-unit * 11;
 	color: $heading-color;
 	letter-spacing: $base-unit / 4;
 	font-weight: 700;
 	margin: $base-unit*9 0px $base-unit*4;
+	text-transform: uppercase;
 }
 
-.heading-3{
+.heading-4{
 	font-family: $font-stack;
 	font-weight: 700;
 	font-size: $base-unit * 6;
@@ -42,10 +57,11 @@
 	letter-spacing: $base-unit / 4;
 	margin: $base-unit*9 0px $base-unit*4;
 	text-transform: uppercase;
+	
 }
 
 .text__button-centered{
 	margin: 0 auto;
-	max-width: 300px;
+	max-width: 270px;
 	text-align: center;
 }

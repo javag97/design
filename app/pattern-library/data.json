@@ -96,6 +96,12 @@
                 },
                 {
                     "group": "typography",
+                    "name": "heading-4",
+                    "title": "Heading 4",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
                     "name": "body",
                     "title": "Body text",
                     "width": "half"
