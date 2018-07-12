@@ -1,5 +1,5 @@
 
-p,a{
+.body-text{
 	font-family: $font-stack;
 	font-style: normal;
 	font-weight: 400;
@@ -10,7 +10,7 @@ p,a{
 	
 }
 
-h1{
+.heading-1{
 	font-family: adelle-sans, sans-serif;
 	font-size: $base-unit * 15;
 	line-height: $base-unit * 16;
@@ -24,7 +24,7 @@ h1{
 	}
 }
 
-h2{
+.heading-2{
 	font-family: adelle-sans, sans-serif;
 	font-size: $base-unit * 11;
 	line-height: $base-unit * 12;
@@ -34,11 +34,18 @@ h2{
 	margin: $base-unit*9 0px $base-unit*4;
 }
 
-h3{
+.heading-3{
 	font-family: $font-stack;
 	font-weight: 700;
 	font-size: $base-unit * 6;
 	color: $heading-color;
 	letter-spacing: $base-unit / 4;
 	margin: $base-unit*9 0px $base-unit*4;
+	text-transform: uppercase;
+}
+
+.text__button-centered{
+	margin: 0 auto;
+	max-width: 300px;
+	text-align: center;
 }
