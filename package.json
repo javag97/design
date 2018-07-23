@@ -1,18 +1,32 @@
 {
-  "name": "portfolioSite",
+  "name": "gatsby-starter-default",
+  "description": "Gatsby default starter",
   "version": "1.0.0",
-  "description": "This is a front-end developer/designer portfolio site for Javier Garcia.",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "jekyll": "3.6.2"
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "gatsby": "^1.9.277",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-catch-links": "^1.0.24",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.44",
+    "react-helmet": "^5.2.0"
   },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
   "scripts": {
-    "start": "bundle exec jekyll serve",
-    "clean": "bundle exec jekyll clean",
-    "prestart": "npm run clean"
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Javier Garcia",
-  "license": "MIT"
+  "devDependencies": {
+    "prettier": "^1.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  }
 }
