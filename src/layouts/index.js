@@ -3,14 +3,13 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import '../styles/index.scss'
+import Button from '../components/button'
 
 const Header = () => (
   <div>
     <div>
       <h1>
-        <Link to="/">
-         Hello World  
-        </Link>
+        <Button label= "Boosted" />
       </h1>
     </div>
   </div>
