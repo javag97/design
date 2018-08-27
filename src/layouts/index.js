@@ -3,17 +3,19 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import '../styles/index.scss'
-import Button from '../components/button'
+import Card from '../components/card'
 
 const Header = () => (
   <div>
     <div>
+    <Card />
       <h1>
-        <Button label= "Boosted" />
       </h1>
     </div>
   </div>
+
 )
+
 
 const TemplateWrapper = ({children}) => (
     <div>
@@ -22,6 +24,10 @@ const TemplateWrapper = ({children}) => (
         meta={[
           { name: 'description', content: 'Sample' },
           { name: 'keywords', content: 'sample, something' },
+        ]}
+        link={[
+          {rel: 'stylesheet', href: 'https://use.typekit.net/ucd8mku.css'},
+          
         ]}
       />
       <Header />
