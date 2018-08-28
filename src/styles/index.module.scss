@@ -5,6 +5,10 @@ $body-color: #000000;
 
 $medium-device: "only screen and (min-width: 800px)";
 
+*{
+	margin: 0;
+}
+
 html{
 	font-size: 1.25em;
 	line-height: 1.40em;
@@ -30,7 +34,7 @@ html{
   font-feature-settings: "onum";
 }
 
-p{
+p,a{
 	@include oldstyle-figures;
 	@include ligatures;
 	font-family: $font-stack;

@@ -1,0 +1,23 @@
+.card{ 
+  position: relative;
+  width: 324px;
+  height: 388px;
+  margin: 1.25em;
+  padding: 1.25em;
+  border-radius: 0.3em;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://bit.ly/2NsmGGN");
+  background-blend-mode: lighten;
+  background-color: rgba($color: #ffffff, $alpha: 0.1);
+
+  &__text{
+    color: #ffffff;
+    margin-bottom: 1em;
+  }
+
+  &__anchor{
+
+  }
+}

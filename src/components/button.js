@@ -1,6 +1,8 @@
 import React from "react"
-import styles from "../styles/button.module.scss"
 import Link from "gatsby-link"
+
+import styles from "../styles/button.module.scss"
+
 
 
 function Button(props) {

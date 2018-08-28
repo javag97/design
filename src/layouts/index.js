@@ -2,7 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
-import '../styles/index.scss'
+
+import 'normalize.css';
+import '../styles/index.module.scss'
+
 import Card from '../components/card'
 
 const Header = () => (
