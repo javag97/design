@@ -1,7 +1,7 @@
 import React from "react"
 import Button from './button.js'
 
-import styles from "../styles/card.module.scss"
+import styles from "../styles/components/_card.module.scss"
 
 
 function Card(props) {

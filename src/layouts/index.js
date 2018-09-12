@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 
 import 'normalize.css';
-import '../styles/index.module.scss'
+import '../styles/index.scss'
 
 import Card from '../components/card'
 

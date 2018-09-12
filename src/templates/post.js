@@ -1,6 +1,8 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 
+
+
 export default function Template({data}) {
   const {markdownRemark: post} = data;
   //const post = dta.markdownRemark;
@@ -8,7 +10,6 @@ export default function Template({data}) {
     <div>
       <h1>{post.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{__html: post.html}} />
-      <Button />
     </div>
   )
 }
