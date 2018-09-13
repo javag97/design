@@ -1,7 +1,10 @@
 .button{
-  display: inline-block;
-  width: 266px;
-  text-align: center;
+  margin: 0;
+  box-sizing: border-box;
+  display: inline-flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 324px;
   border-bottom: 0.25em solid #3b227b;
   background: #502ea4;
   border-radius: 5px;

@@ -3,15 +3,18 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 
-import 'normalize.css';
+import 'normalize.css'
 import '../styles/index.scss'
 
 import Card from '../components/card'
+import Button from '../components/button'
 
 const Header = () => (
   <div>
     <div>
     <Card />
+    <Card />
+    <Button label="test"/>
       <h1>
       </h1>
     </div>
