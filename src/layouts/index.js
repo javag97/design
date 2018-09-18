@@ -10,14 +10,12 @@ import Card from '../components/card'
 import Button from '../components/button'
 
 const Header = () => (
-  <div>
-    <div>
+  <div className="grid">
     <Card />
     <Card />
     <Button label="test"/>
       <h1>
       </h1>
-    </div>
   </div>
 
 )
