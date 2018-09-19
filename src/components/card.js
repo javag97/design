@@ -8,8 +8,8 @@ function Card(props) {
   return(
     <div className = {styles.card}>
         <div className = {styles.card__anchor}>
-          <h2 className = {styles.card__text}>SLO DO CO TO GO</h2>
-          <p className = {styles.card__text}>Connecting Aerospace to high quality suppliers</p>
+          <h2 className = {styles.card__heading}>{props.heading}</h2>
+          <p className = {styles.card__description}>{props.description}</p>
         </div>
         <Button label="Read more" to="/second-page" />
       </div>

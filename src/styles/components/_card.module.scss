@@ -10,11 +10,14 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url("https://bit.ly/2NsmGGN");
-  background-blend-mode: lighten;
-  background-color: rgba($color: #ffffff, $alpha: 0.1);
 
-  &__text{
+  &__heading{
     color: #ffffff;
+  }
+
+  &__description{
+    color: #ffffff;
+    margin-top: 0.25em;
   }
 
   &__anchor{

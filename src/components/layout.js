@@ -1,21 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 
 import 'normalize.css'
 import '../styles/index.scss'
 
 import Card from '../components/card'
-import Button from '../components/button'
+import Nav from './nav'
 
 const Header = () => (
   <div className="grid">
-    <Card />
-    <Card />
-    <Button label="test"/>
-      <h1>
-      </h1>
+    <Nav />
+    <Card heading="datum" description="Connecting Aerospace to high quality suppliers."/>
+    <Card heading="slo do co to go" description="Perfecting the donut indulgence."/>
+    <Card heading="camp poly hacks" description="Helping the community solve real problems."/>
   </div>
 
 )
@@ -36,7 +34,7 @@ const TemplateWrapper = ({children}) => (
       />
       <Header />
       <div>
-        {children()}
+        {children}
       </div>
     </div>
   )
