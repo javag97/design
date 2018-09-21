@@ -7,6 +7,7 @@ import '../styles/index.scss'
 
 import Card from '../components/card'
 import Nav from './nav'
+import Footer from './footer'
 
 const Header = () => (
   <div className="grid">
@@ -14,6 +15,7 @@ const Header = () => (
     <Card heading="datum" description="Connecting Aerospace to high quality suppliers."/>
     <Card heading="slo do co to go" description="Perfecting the donut indulgence."/>
     <Card heading="camp poly hacks" description="Helping the community solve real problems."/>
+    <Footer />
   </div>
 
 )
