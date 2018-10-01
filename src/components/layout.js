@@ -4,40 +4,32 @@ import Helmet from 'react-helmet'
 
 import 'normalize.css'
 import '../styles/index.scss'
+import Nav from '../components/nav'
 
-import Card from '../components/card'
-import Nav from './nav'
+
+
 import Footer from './footer'
 
-const Header = () => (
-  <div className="grid">
-    <Nav />
-    <Card heading="datum" description="Connecting Aerospace to high quality suppliers."/>
-    <Card heading="slo do co to go" description="Perfecting the donut indulgence."/>
-    <Card heading="camp poly hacks" description="Helping the community solve real problems."/>
-    <Footer />
-  </div>
-
-)
 
 
 const TemplateWrapper = ({children}) => (
     <div>
       <Helmet
-        title="Gatsby Default Starter"
+        title="Javier Garcia's Portfolio"
         meta={[
-          { name: 'description', content: 'Sample' },
-          { name: 'keywords', content: 'sample, something' },
+          { name: 'description', content: 'UX Design Portfolio of Javier Garcia' },
+          { name: 'keywords', content: 'UX, Web Development, Front End, Engineer, Design, Typography' },
         ]}
         link={[
           {rel: 'stylesheet', href: 'https://use.typekit.net/ucd8mku.css'},
           
         ]}
       />
-      <Header />
+       <Nav />
       <div>
         {children}
       </div>
+      <Footer/>
     </div>
   )
 

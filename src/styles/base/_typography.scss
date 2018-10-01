@@ -79,3 +79,17 @@ h4{
 	@include small-caps;
 	
 }
+
+li{
+padding-inline-start: 0;
+font-family: $font-stack;
+font-weight: 700;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 1px;
+list-style-type: none;
+}
+
+.text__white{
+	color: #ffffff;
+}
