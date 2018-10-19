@@ -11,7 +11,7 @@ function Card(props) {
           <h2 className = {styles.card__heading}>{props.heading}</h2>
           <p className = {styles.card__description}>{props.description}</p>
         </div>
-        <Button label="Read more" to="/second-page" />
+        <Button label="Read more" to={props.heading} />
       </div>
 
   );

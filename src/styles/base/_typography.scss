@@ -29,7 +29,6 @@ p,a{
 	@include ligatures;
 	font-family: $font-stack;
 	font-style: normal;
-	font-weight: 400;
 	margin: 0 0 $base-unit * 2;
 
 }
@@ -48,6 +47,10 @@ h1{
 
 
 h2{
+	a{
+		text-decoration: none;
+		color: #000000;
+	}
 font-family:$font-stack;
 font-size: $base-unit*16;
 line-height: 0.8em;
