@@ -13,18 +13,12 @@ const Text = styled.div`
 const About = center => (
   <Layout>
     <Helmet title={'About Page'} />
-    <Header title="About Page">Gatsby Tutorial Starter</Header>
+    <Header title="About Page">Designer & Developer from San Diego.</Header>
     <Container center={center}>
       <Text>
         <h3>
-          If you would like to build this site completely from scratch, you go
-          can go read the guide{' '}
-          <a href="https://justinformentin.com/gatsby-v2-guide">here.</a>
-        </h3>
-        <br />
-        <h3>
-          Or you can watch the video{' '}
-          <a href="https://youtube.com/#">on Youtube.</a>
+        Born and raised in National City, California as a first generation Mexican-American.
+        I help purpose-driven organizations solve technology problems by using creativity and strategy to explore what works best for others. My hope is that others are inspired by such process to make a better society.	
         </h3>
       </Text>
     </Container>
