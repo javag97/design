@@ -1,6 +1,6 @@
 ---
-path: '/slodoco'
-title: 'SLO Donut Co to go'
+path: '/slo%20do%20co%20to%20go'
+title: 'SLO Donut Co To go'
 ---
 SLO Donut Co. is a popular donut shop located about two miles from Cal Poly’s campus. When I walked into SLODoCo and talked to the manager, she mentioned that SLODoCo brings in about $200,000 of revenue every month. It comes to no surprise that this business knows how to attract people and has built a very successful business because of that. 
 

@@ -1,12 +1,9 @@
 ---
+
 path: '/datum'
-title: 'Datum'
+title: 'Test'
 ---
 
-Datum
-noun
-a piece of information.
-a fixed starting point of a scale or operation.
 
 In the aerospace industry, parts that malfunction during launch are a serious problem. Datum was a startup idea inspired by building a funnel for high quality suppliers and aerospace businesses. Organizations like SpaceX, JPL, and Boeing have issues with having access to parts that are in conformance to their requirements. SpaceX’s Falcon 9 is a prime example of how one faulty part led to total loss of spacecraft. 
 
