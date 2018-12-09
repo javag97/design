@@ -7,16 +7,30 @@ title: "StArt"
 published: false
 tags: ['mobile', 'ux design', 'ux research', 'ui design']
 ---
-An augmented reality game to learn more about culture and art without physical vandalism. 
+An augmented reality mobile app to learn more about culture and art while traveling.
+
+![London, United Kingdom, Photo by Benjamin Davies](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+
+![London, United Kingdom, Photo by Alfonso Cenname ](https://images.unsplash.com/photo-1469480367508-d9487f86f766?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+
+Any regular person would be able to tell you in an instant where the first photograph was taken. A local resident from London might say that they pass by the second photograph everyday on their morning commute to work.
+
+It's interesting that many tourist locations [London has thirty million visitors annually](http://www.uncsbrp.org/tourism.htm). 
+
+# Problem
+
+People have issues finding ways to interacting with authentic culture while traveling.  
 
 # Defining Art
 Public art reflects the ideas of an area and can teach people about communities and cultures around the world. This product shows others how different communities are unique.
 
+
+
 # Audience
-StArt was designed in mind of individuals who are excited about different cultures. These are people who are travel often and are looking at experiencing a different community. These experiences can be found in any range from large metropolitan areas to small towns.
+StArt was designed for individuals who are excited about different cultures. Such users travel often and are looking at experiencing a different community. These experiences can be found in any range from large metropolitan areas to small towns.
 
 # Role
-I was involved in designing a impactful experience from concept to prototype. 
+[Anna Shambaugh](https://www.linkedin.com/in/anna-shambaugh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BDHyLxgxGQlKAmE3smEDQJw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=hEqIYOcPSP%2Bx23GMhJUXaQ%3D%3D) and I was involved in designing a impactful experience from concept to prototype. 
 
 # Talking to users
 We discovered a generalized, but real viewpoints that could be found across potential users for this app. 
