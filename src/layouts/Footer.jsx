@@ -25,7 +25,6 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        
         <p> 2018 © Javier Garcia</p>
       </span>
     </Text>
