@@ -19,13 +19,19 @@ const Text = styled.div`
   padding-bottom: 2rem;
   text-align: center;
   color: ${props => props.theme.colors.white.light};
+  a{
+    color: #ffffff;
+  }
 `;
 
 const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        <p> 2018 © Javier Garcia</p>
+    <a href="https://www.linkedin.com/in/javigme/">LinkedIn</a> -{' '}
+    <a href="https://github.com/javag97">Github</a> -{' '}
+    <a href="mailto:jgarcme@gmail.com">Email</a>
+
       </span>
     </Text>
   </Wrapper>
