@@ -18,43 +18,41 @@ An augmented reality mobile app to learn more about culture and art while travel
 
 ![London, United Kingdom, Photo by Alfonso Cenname ](https://images.unsplash.com/photo-1469480367508-d9487f86f766?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
-Any regular person would be able to tell you in an instant where the first photograph was taken. A local resident from London might say that they pass by the second photograph everyday on their morning commute to work.
+Any laymen person would be able to tell you in an instant where the first photograph was taken. A local resident from London might say that they pass by the second photograph everyday on their morning commute to work.
 
 It's interesting that many small locations off the beaten path go mostly unnoticed despite that fact that [London has thirty million visitors annually](http://www.uncsbrp.org/tourism.htm). This prompted a discovery phase to see if our assumptions were true. 
 
 # Problem
 
-People spend lots of time hovering around "tourist traps" when traveling rather than trying to experience the area. This leads people to think that tourist attractions represent the people who live in these cities.
+![Venn Diagram showing disconnect between tourists and locals](./problem.jpg)
 
-# Talking to people
+People spend lots of time hovering around "tourist traps" when traveling rather than trying to experience the area from the point of view of locals. This leads people to thinking that tourist attractions fully represent the people who live in these cities. This is not to say that popular tourist attractions don't represent an area, but that there is more to a destination than just the popular places to visit.
+
+# Background Research
+
+We wanted to ask common travelers questions regarding where they're from and what they do when traveling. The reasoning was to validate the idea that travelers often overlook certain destinations that locals very frequently congregate behind. We discovered a generalized, but real viewpoint that could be found across potential users of our idea. 
+
++ Spending too much time around tourist destinations can feel constructed
++ Balance of both tourist destinations and non-tourist destinations 
++ People take pride in their community
 
 
 
+# Defining Public Art
 
-
-
-
-
-
-
-
-# Defining Art
-Public art reflects the ideas of an area and can teach people about communities and cultures around the world. This product shows others how different communities are unique.
+![Images of what public art for the purposes of StArt](./definingart.jpg)
+Public art reflects the ideas of an area and can teach people about communities and cultures around the world. This product shows others how different communities are unique.  From talking to some potential users, some wanted to expand the idea beyond art to anything a user would want to visit while traveling. 
 
 
 
 # Audience
-StArt was designed for individuals who are excited about different cultures. Such users travel often and are looking at experiencing a different community. These experiences can be found in any range from large metropolitan areas to small towns.
+Our decision was to limit to scope as we wanted the app to remain focused on a specific niche.  We also were aware of other competitors in the space that currently suceessful, while looking at our idea as a way to solve the problems of a single fictional person whose needs could be clearly identified and monitored.
+
+
+Such an individual is excited about different cultures. They travel often and are looking at experiencing cultures and communities different from their own. These experiences can be found in any range from large metropolitan areas to small towns.
 
 
 
-# Talking to users
-We discovered a generalized, but real viewpoints that could be found across potential users for this app. 
-
-Spending too much time around tourist attractions feel forced
-Likes a balance of authenticity
-Proud of their community
-Culture is important to who they are
 
 
 
