@@ -2,29 +2,22 @@ import Typography from 'typography';
 
 const typography = new Typography({
   title: 'GatsbyTutorial',
-  baseFontSize: '18px',
-  baseLineHeight: 1.45,
+  baseFontSize: '20px',
+  baseLineHeight: 1.6,
+  blockMarginBottom: 0.6,
   headerFontFamily: [
-    'Candal',
-    '-apple-system',
-    'BlinkMacSystemFont',
-    'Segoe UI',
-    'Roboto',
-    'Helvetica',
-    'Arial',
+    'adelle-sans',
+    'Lucida Grande',
+    'Verdana',
     'sans-serif',
   ],
   bodyFontFamily: [
-    'Open Sans',
-    '-apple-system',
-    'BlinkMacSystemFont',
-    'Segoe UI',
-    'Roboto',
-    'Helvetica',
-    'Arial',
+    'adelle-sans',
+    'Lucida Grande',
+    'Verdana',
     'sans-serif',
   ],
-  headerWeight: 500,
+  headerWeight: 700,
 });
 
 export default typography;
