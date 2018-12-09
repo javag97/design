@@ -18,14 +18,14 @@ const Text = styled.div`
 const About = center => (
   <Layout>
     <Helmet title={'About Page'} />
-    <Header title="About Page">Designer & Developer from San Diego.</Header>
+    <Header title="Nice to meet you.">UX Designer from San Diego.</Header>
     <Container center={center}>
 
       <Text>
-      <img src={portrait} alt="eyo" />
+      <img src={portrait} alt="Picture of Javier Garcia" />
         <h3>
         Born and raised in National City (San Diego), California as a first generation Mexican American.
-        I help purpose-driven organizations solve technology problems by using creativity and problem solving to explore what works best for others. My hope is that others are inspired by such process to make a more functional society.	
+        I help purpose-driven organizations solve technology problems by using creative problem solving to explore what works best for others. My hope is that others are inspired by such process to make a more functional society.        	
         </h3>
       </Text>
     </Container>

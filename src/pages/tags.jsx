@@ -8,7 +8,7 @@ const Tags = ({ pageContext }) => {
 console.log(pageContext)
   return (
     <Layout>
-      <Header title="Tags Page">Designer & Developer from San Diego.</Header>
+      <Header title="Tags Page"> UX Designer from San Diego.</Header>
       <Container>
         <TagsBlock list={tags} />
       </Container>
