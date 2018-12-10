@@ -125,38 +125,23 @@ Our first change was to make this screen default to sort by date. A sort button 
  ![Visual Suggestions to ](./images/visual-suggestions.jpg)
 Visual language references were taken from Material Design and Pokémon Go.
 
-
-
 # Final product
-
 ![Final Product](./images/final.jpg)
 
-# Ethical considerations
-An ethical issue that might arise in our app is that an artist may not want to have their
-work discoverable on the app. Although the app is all meant to be publicly accessible
-the artist may feel that it violates their usage rights as the creator of an image. Since
-it is also meant to bring people to areas that they would not normally explore it may
-increase tourist presence in an area that doesn’t want tourism.
+# Closing Thoughts
+In future versions, users should be able to see other user’s photos and tags within AR. It would also be important for app’s purpose of celebrating art to have artists being more directly involved with adding their art to the app.
 
-# Future enhancements
-In future versions, users should be able to see other user’s photos and tags within AR.
-It would also be important for app’s purpose of celebrating art to have artists being
-more directly involved with adding their art to the app.
+## Ethical Considerations
+Although the app is all meant to be publicly accessible the artist may feel that it violates their usage rights as the creator of an image. Since it is also meant to bring people to areas that they would not normally explore it may increase tourist presence in an area that doesn’t want tourism.
 
-# Technical requirements
-The application we are proposing and developing relies heavily on augmented reality.
-The technology for displaying AR through a cell phone already exist through ARKit . The aspect of the
-AR that still needs improvement is the drawing in AR. People need to be able to see the
-marks of others as well as add their own that everyone will be able to see. A system
-has to be developed that allows shared viewing of the AR space.
+## AR Kit and technical limitations
+Apple's ARKit in its current form can currently support the app as designed. However, such a technology is still new and could be improved upon. A challenge is finding a way for others to see tags made on different devices. Such a system must be developed that allows shared viewing across the AR Space. 
 
-# Possible constraints
+
+## Constraints
 It is important to consider the process of how users submit art locations to travel to.
-This process can be open to all users. It could also be possible for a select few to be
-able to moderate content and make sure that it is appropriate for the app. It could also
-all be open for any user to be able to make any change. In the case that someone
-uploads inappropriate imagery or text, there needs to be a system for reporting within
-the app.
+This process can be open to all users or a select few to be able to moderate content. In the case that someone
+uploads inappropriate imagery or text, there needs to be a system for reporting which should be accounted for in the app's design.
 
 
 
