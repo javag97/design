@@ -1,6 +1,6 @@
 ---
 path: "/StArt"
-cover: "./blocks.jpg"
+cover: "./StArt.jpg"
 slug: "StArt"
 date: "2018-09-20"
 title: "StArt"
@@ -123,13 +123,13 @@ Our first change was to make this screen default to sort by date. A sort button 
 
 # Visual language suggestions
  ![Visual Suggestions to ](./images/visual-suggestions.jpg)
- 
-Visual language references were taken from Material Design and Pokémon Go when deciding on what direction to go. 
+Visual language references were taken from Material Design and Pokémon Go.
 
 
 
 # Final product
-Placeholder for the presentation of your final solution. 
+
+![Final Product](./images/final.jpg)
 
 # Ethical considerations
 An ethical issue that might arise in our app is that an artist may not want to have their
