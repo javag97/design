@@ -1,5 +1,5 @@
 ---
-path: "/datum"
+path: "/work/datum"
 cover: "./speed.jpg"
 slug: "post-two"
 date: "2017-07-28"

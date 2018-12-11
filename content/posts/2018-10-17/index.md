@@ -1,5 +1,5 @@
 ---
-path: "/slodocotogo"
+path: "/workslodocotogo"
 cover: "./finance.jpg"
 slug: "post-three"
 date: "2018-07-17"

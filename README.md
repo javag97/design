@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://github.com/justinformentin/gatsby-v2-tutorial-starter">
-    <img
-      src="https://i.imgur.com/mW3HLrn.png"
-      height="80"
-      alt="gatsby-v2-tutorial-starter"
-      title="Gatsby v2 Tutorial Starter"
-    />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://circleci.com/gh/justinformentin/gatsby-v2-tutorial-starter">
@@ -109,17 +99,6 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/justinformentin/gatsby-v2-tutorial-starter)
 
 ```bash
-Download project
-# With `gatsby-cli`
-gatsby new my-site https://github.com/justinformentin/gatsby-v2-tutorial-starter
-
-OR
-
-# Cloning
-git clone my-site https://github.com/justinformentin/gatsby-v2-tutorial-starter.git
-cd my-site
-
-THEN
 
 # Install dependencies
 npm i
