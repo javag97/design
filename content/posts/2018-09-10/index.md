@@ -123,9 +123,11 @@ Our first change was to make this screen default to sort by date. A sort button 
 
 # Visual language suggestions
  ![Visual Suggestions to ](./images/visual-suggestions.jpg)
-Visual language references were taken from Material Design and Pokémon Go.
+Visual language references were taken from Material Design and Pokémon Go due to common users spending a more time on those products that StArt.
 
 # Final product
+From both iterations, there was a decision to be more expressive as the app must resonate with people who are fans of art. A challenge of doing so is trying to be more expressive in the interface while following common design paterrns elsewhere. 
+
 ![Final Product](./images/final.jpg)
 
 # Closing Thoughts

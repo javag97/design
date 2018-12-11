@@ -98,6 +98,8 @@ Most users according to our personas aren't looking to apply to work there or ar
 
 # Affinity Map
 
+We had a hard time understanding how to group items together in the information architecture, pointing to the lack of organized structure on the site. We did such because of trying to organize our own ideas and finding new ways to accomplish structure. 
+
 ![Affinity  Map](./images/affinity-map.jpg)
 
 # Personas
@@ -137,17 +139,33 @@ Based on the personas we created, we used such personas to guide scenarios that 
 ![Storyboard](./images/storyboard.jpg)
 
 # Prototype
+
 ![Prototype](./images/wireframe.jpg)
 
 # Usability Study
 
-Filler content of what is actually going to be said. 
+This prototype was made in Balsamiq to test some tasks that would be performed by our personas. 
+
+1. How many Strawberry French Crullers are available?
+2. SloDoCo has just sent you notifications about coupons, how would you be able to redeem your custom order coupon?
+
 
 ## Usability Study Changes
+
++ Add coupons tab separate from coupons
++ Allow users to tap on entire boxes rather than just the button
++ Be more conscious about chunking information so that users don't get overwhelmed with choices
+
 
 ![Prototype](./images/usability-results.jpg)
 
 ## Visual Language Suggestions
+
+Based on the colors from within the store and their current brand that they have developed, there was an emphasis on trying to stay uniform to that voice and understanding how to adapt what currently exists for a mobile app.
+
+![Visual Language](./images/visual-language.jpg)
+
+## Closing Thoughts
 
 
 
