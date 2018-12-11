@@ -1,14 +1,14 @@
 ---
 path: "/works/slodocotogo"
-cover: "./finance.jpg"
+cover: "./slodoco.jpg"
 slug: "post-three"
 date: "2017-07-17"
 title: "SLO DO CO to go"
-tags: ['gatsby', 'news', 'other']
+tags: ['xd', 'balsamiq', 'Card sort', 'Usability analysis', 'Survey', 'Business requirements','Information architecture', 'Affinity mapping']
 published: true
 ---
 
-Pefecting the donut consumption experience for busy people on the go.
+Pefecting the donut consumption experience for busy people always on the go.
 
 
 # Role
@@ -36,7 +36,7 @@ Before starting the design process, it is important to realize the interactions 
 ![Business Model Canvas of SLO DO CO](./images/bmc.jpg)
 
 
-# Understanding their business
+# Understanding business requirements
 By interacting with managers, employees, and customers of SLODOCO, here are reoccuring observations:
 + SLODOCO makes the most amount of money from tourists, locals, and college students
 + SLODOCO looks to make the entire experience of buying a donut as effortless as possible
@@ -90,6 +90,10 @@ In terms of responses, we were able to figure out which donuts are prefered duri
 
 # Information Architecture
 
+Based on the research, we tried to understand more closely how the old site information was being orgainzed. In this exercise, we realized the hierarchy does not always make sense to the user. 
+
+Most users according to our personas aren't looking to apply to work there or are looking at ordering custom donuts. While deals do logically make sense in its current place, our users would prefer that to be in its own section because of the frequency that users are looking for deals. 
+
 ![Information Architecture](./images/information-arch.jpg)
 
 # Affinity Map
@@ -98,59 +102,36 @@ In terms of responses, we were able to figure out which donuts are prefered duri
 
 # Personas
 
+From discovering various traits found in typical users, we decided that using multiple personas would be a valuable trade off when it comes to the flexibility of the app and site. 
+
+
 ![Persona 1](./images/persona.jpg)
 ![Persona 2,3](./images/persona-2.jpg)
 
 
 # Scenarios
 
-Two different scenarios.
+Based on the personas we created, we used such personas to guide scenarios that users would find themselves interacting with the product.
 
-## Loyalty + Coupon Scenario
+## Clare and Loyalty/Coupon
 
-Clare Smith is a single mother of three in her thirties who is a
-San Luis Obispo local. She and her children love SloDoCo and
-she often treats the family to donuts every Friday after school.
-Clare usually does not like to spend money, however she finds
-it is worth it to spend this money every week. Clare recently
-downloaded the SloDoCo app and was surprised to see that
-it had a section that offers coupons and deals. She also was
-delighted to find that there was a loyalty program within the
-app. The first Friday after downloading the app, Clare opens it
-on her cell phone while she is waiting for her children to decide
-on what to order. She then taps on the Deals tab and looks
-for the best option to use with her order. Next, she tells the
-employee her order and finally shows the coupon at the register.
-Clare was happy that the coupon gave her a 10% discount. She
-then taps on the Loyalty Program tab in the app and shows the
-cashier her digital loyalty card. Clare loves this feature because
-she frequents SloDoCo every week, and the card allows her to
-receive a free item after purchasing six items. Finally, Clare leaves
-the establishment with her children in a happy mood due to the
-coupon saving her money and the loyalty program promising a
-free item in the future
++ Clare Smith love SLODOCO and often treats the family to donuts every Friday after school.
++ Clare recently downloaded the SloDoCo app and was surprised to see that it contained offers and coupons as well as a loyalty program. 
++ Clare opens it on her cell phone while she is waiting for her children to decide on what to order. 
++ She then taps on the Deals tab and looks for the best option to use with her order. 
++ When arriving, Clare was happy that the coupon gave her a 10% discount. 
++ Clare then taps on the Loyalty Program tab in the app and shows the cashier her digital loyalty card.
++ Clare leaves the establishment in a happy mood 
 
-## Donut Availability + Store Occupancy
+## Jeff and Donut Availability
 
-Jeff Campbell is a Junior Architecture student at Cal Poly
-University. It is a late weeknight and he is starting to get a craving
-for something sweet to eat. SloDoCo is one of his guilty pleasures
-that he lets himself indulge in every so often. His absolute favorite
-donut that he always gets at SloDoCo is the glazed buttermilk
-donut. Nothing would bring him more joy than to go to SloDoCo
-and grab one of these donuts to eat. However it is almost 12 am
-and he’s worried they have run out of them. Jeff remembers he
-has the SloDoCo app! He remembers that the app will allow him
-to see if his favorite donut is currently in stock and will let him see
-if he would have to wait in line for it. So he pulls out her phone
-and opens the app. Sure enough, his hunch was correct. A bar
-on the app indicated that it’s a full house due to an event and all
-the donuts were gone and he now has to wait for fresh donuts.
-He decides to wait and spends the rest of the time studying and
-catching up on work. Then Jeff receives a notification that the
-donuts are ready and he sees that the store is no longer packed.
-So he heads for the shop and grabs his donut and continues to
-be a happy customer.
++ Jeff Campbell is working in architecture studio on a late weeknight and he is starting to get a craving for something sweet.
++ Jeff is craving SLODOCO as it is one of his guilty pleasures, but is unsure if his favorate donut is in stock. 
++ Jeff opens the SLODOOCO app, realizes that SLODOCO is all out.
++ Jeff is able to see that a new batch will be ready soon.
++ Jeff receives a notification that the donuts are ready
++ Jeff heads to the shop, chats with the casher, and goes back to continue working on his school project.
+
 
 # Storyboard
 ![Storyboard](./images/storyboard.jpg)
@@ -165,6 +146,8 @@ Filler content of what is actually going to be said.
 ## Usability Study Changes
 
 ![Prototype](./images/usability-results.jpg)
+
+## Visual Language Suggestions
 
 
 
