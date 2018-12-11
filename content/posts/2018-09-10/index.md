@@ -31,7 +31,7 @@ Our app's goal is to promote the celebration of culture and spirit of artistry. 
 
 People spend lots of time hovering around “tourist traps” when traveling rather than trying to experience the area from the point of view of locals. This leads people to thinking that tourist attractions fully represent the people who live in these cities. This is not to say that popular tourist attractions don't represent an area, but that there is more to a destination than the tourism.
 
-# Background Research
+# Research
 
 *Note: To comply with non-disclosure, I have omitted and obfuscated confidential information.*
 
