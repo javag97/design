@@ -162,7 +162,7 @@ be a happy customer.
 
 Filler content of what is actually going to be said. 
 
-Usability Study Changes
+## Usability Study Changes
 
 ![Prototype](./images/usability-results.jpg)
 
