@@ -143,6 +143,7 @@ Based on the personas we created, we used such personas to guide scenarios that 
 ![Prototype](./images/wireframe.jpg)
 
 # Usability Study
+![Users Interacting with Prototype](./images/usability-testing.jpg)
 
 This prototype was made in Balsamiq to test some tasks that would be performed by our personas. 
 
@@ -165,7 +166,6 @@ Based on the colors from within the store and their current brand that they have
 
 ![Visual Language](./images/visual-language.jpg)
 
-## Closing Thoughts
 
 
 
