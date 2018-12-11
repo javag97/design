@@ -47,9 +47,13 @@ From our research, there are no direct competors to this product. The only compe
 ![](./images/wireframe.jpg)
 ![](./images/wireframe-2.jpg)
 
-
 # Visual Language
-Aktiv Grotesk and Blue. 
+![](./images/Landing.jpg)
+![](./images/Form.jpg)
+
+# Second Place! 
+![](./images/winning.jpg)
+
 
 
 
