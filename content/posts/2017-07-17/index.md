@@ -94,16 +94,77 @@ In terms of responses, we were able to figure out which donuts are prefered duri
 
 # Affinity Map
 
+![Affinity  Map](./images/affinity-map.jpg)
+
 # Personas
+
+![Persona 1](./images/persona.jpg)
+![Persona 2,3](./images/persona-2.jpg)
+
 
 # Scenarios
 
+Two different scenarios.
+
+## Loyalty + Coupon Scenario
+
+Clare Smith is a single mother of three in her thirties who is a
+San Luis Obispo local. She and her children love SloDoCo and
+she often treats the family to donuts every Friday after school.
+Clare usually does not like to spend money, however she finds
+it is worth it to spend this money every week. Clare recently
+downloaded the SloDoCo app and was surprised to see that
+it had a section that offers coupons and deals. She also was
+delighted to find that there was a loyalty program within the
+app. The first Friday after downloading the app, Clare opens it
+on her cell phone while she is waiting for her children to decide
+on what to order. She then taps on the Deals tab and looks
+for the best option to use with her order. Next, she tells the
+employee her order and finally shows the coupon at the register.
+Clare was happy that the coupon gave her a 10% discount. She
+then taps on the Loyalty Program tab in the app and shows the
+cashier her digital loyalty card. Clare loves this feature because
+she frequents SloDoCo every week, and the card allows her to
+receive a free item after purchasing six items. Finally, Clare leaves
+the establishment with her children in a happy mood due to the
+coupon saving her money and the loyalty program promising a
+free item in the future
+
+## Donut Availability + Store Occupancy
+
+Jeff Campbell is a Junior Architecture student at Cal Poly
+University. It is a late weeknight and he is starting to get a craving
+for something sweet to eat. SloDoCo is one of his guilty pleasures
+that he lets himself indulge in every so often. His absolute favorite
+donut that he always gets at SloDoCo is the glazed buttermilk
+donut. Nothing would bring him more joy than to go to SloDoCo
+and grab one of these donuts to eat. However it is almost 12 am
+and he’s worried they have run out of them. Jeff remembers he
+has the SloDoCo app! He remembers that the app will allow him
+to see if his favorite donut is currently in stock and will let him see
+if he would have to wait in line for it. So he pulls out her phone
+and opens the app. Sure enough, his hunch was correct. A bar
+on the app indicated that it’s a full house due to an event and all
+the donuts were gone and he now has to wait for fresh donuts.
+He decides to wait and spends the rest of the time studying and
+catching up on work. Then Jeff receives a notification that the
+donuts are ready and he sees that the store is no longer packed.
+So he heads for the shop and grabs his donut and continues to
+be a happy customer.
+
 # Storyboard
+![Storyboard](./images/storyboard.jpg)
 
 # Prototype
+![Prototype](./images/wireframe.jpg)
 
 # Usability Study
 
+Filler content of what is actually going to be said. 
+
+Usability Study Changes
+
+![Prototype](./images/usability-results.jpg)
 
 
 
