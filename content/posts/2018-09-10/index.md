@@ -29,7 +29,7 @@ Our app's goal is to promote the celebration of culture and spirit of artistry. 
 
 ![Venn Diagram showing the disconnect between tourists and locals](./images/problem.jpg)
 
-People spend lots of time hovering around “tourist traps” when traveling. As a consequence, tourists can concentrate foot-traffic within areas that negatively affect locals. This is in contrast to travelers who try to understand the area from the point of view of locals. Such travelers are more open to respecting the world around them. 
+There is a disconnect between what tourists and locals do. People spend lots of time hovering around “tourist traps” when traveling. As a consequence, tourists can concentrate foot-traffic within areas that negatively affect locals. This is in contrast to travelers who try to understand the area from the point of view of locals. Such travelers are more open to respecting the world around them. 
 
 # Research
 
