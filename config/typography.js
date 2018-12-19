@@ -1,10 +1,11 @@
 import Typography from 'typography';
 
 const typography = new Typography({
-  title: 'GatsbyTutorial',
+  title: 'AdelleSans',
   baseFontSize: '20px',
-  baseLineHeight: 1.6,
+  baseLineHeight: 1.4,
   blockMarginBottom: 0.6,
+  scaleRatio: 3.0,
   headerFontFamily: [
     'adelle-sans',
     'Lucida Grande',
