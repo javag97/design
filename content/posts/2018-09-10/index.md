@@ -74,7 +74,7 @@ Such individuals find different cultures exciting. They travel often and are loo
 
 Jeremy Wilkes is a 24-year-old student teacher. He is also a part-time wedding photographer as a way to supplement his income. Jeremy enjoys going on road trips with friends on weekends and during his time off. When he gets the chance he also likes to travel abroad with his family. When Jeremy and his family travel they like to leave some time to do some free-form exploring.
 
-### Jeremy's Goals
+### Jeremy's goals
 + Learn more about the authentic culture in the places he visits.
 + Wants to meet new kinds of people when he goes on trips.
 + Wants to explore new things in places he hasn't been before
@@ -96,7 +96,7 @@ Jeremy Wilkes is a 24-year-old student teacher. He is also a part-time wedding p
 9. Jeremy notices that the street he’s on has some other interesting displays and shops. Jeremy looks for other nearby art to kill more time.
 
 # Interaction framework
-Based on the snenario of Jeremy.
+Based on the scenario of Jeremy.
 ![Interaction Framework](./images/framework.jpg)
 
 # Wireframes
@@ -114,35 +114,33 @@ We used an [adapted sample script](https://www.sensible.com/downloads/test-scrip
 
 ## Results
 
-From three usability tests, we could see that our first two tasks of our interface were easy to follow. However, people were hung up on our third task. We noticed that when all of our participants were asked to look for an item on a list, their natural response was is to scroll. The way we had structured our interface was that users would sort to find past discoveries as we were convinced that [users wouldn't scroll](https://uxmyths.com/post/654047943/myth-people-dont-scroll).  
+From three usability tests, we could see that our first two tasks of our interface were easy to follow. Yet, our third task was confusing to participants. 
+
+When our participants looked for an item on a list, we expected them to understand pagination. Instead, their natural response was to [scroll and not sort] (https://uxmyths.com/post/654047943/myth-people-dont-scroll). 
 
 ![Usability Results](./images/usability-changes.jpg)
 
-Our first change was to make this screen default to sort by date. A sort button with a drop-down allows users to click on this button if they want to sort, then prompting users about what way they would want to sort. The reasoning for this decision is that users looking to sort will want to do so. From testing our third task again, our users were able to finish the task.
+Or changes was to make this screen default to sort by date. Also, a sort button with a drop-down gives users control of how they want to sort. From testing our third task again, our users were able to finish the task.
 
 # Visual language suggestions
  ![Visual Suggestions to ](./images/visual-suggestions.jpg)
-Visual language references were taken from Material Design and Pokémon Go due to common users spending more time on those products that StArt.
+Users spend most of their time on other applications. We can use other existing design patterns to guide our process. Material Design and Pokémon Go inspired the visual language. Material Design has a far reach that many users have come across. Pokemon Go is a similar domain of augmented reality. This process was about adapting what currently exists to StArt. 
 
 # Final product
-From both iterations, there was a decision to be more expressive as the app must resonate with people who are fans of art. A challenge of doing so is trying to be more expressive in the interface while following common design patterns elsewhere. 
+From both iterations, we wanted to be more expressive as the app must resonate with people who are fans of art. This can be difficult when trying to also follow common design patterns elsewhere. 
 
 ![Final Product](./images/final.jpg)
 
-# Closing Thoughts
-In future versions, users should be able to see other user’s photos and tags within AR. It would also be important for app’s purpose of celebrating art to have artists being more directly involved with adding their art to the app.
+# Future iterations
+In future versions, users should be able to see other user’s photos and tags within AR. It would also be important to have artists being more involved with adding their art to the app.
 
-## Ethical Considerations
-Although the app is all meant to be publicly accessible the artist may feel that it violates their usage rights as the creator of an image. Since it is also meant to bring people to areas that they would not normally explore it may increase tourist presence in an area that doesn’t want tourism.
+## Ethical considerations
+These are things that we need to keep in mind when pursuing the idea further. The artist may feel that our app violates their usage rights as the creator of an image. An artist should have a say whether their work gets displayed on the app. We also have to consider tourism in areas that don't want tourism. Finally, we should consider monitoring inappropriate art without trying to censor different perspectives. It is also important to consider who gets to say what is inappropriate. 
 
-## AR Kit and technical limitations
-Apple's ARKit in its current form can currently support the app as designed. However, such a technology is still new and could be improved upon. A challenge is finding a way for others to see tags made on different devices. Such a system must be developed that allows shared viewing across the AR Space. 
+## ARKit and technical limitations
+A challenge is finding a way for others to see tags made on different devices. Currently, Apple's ARKit can support the app as designed. Yet, such a technology is still emerging and needs to develop further across other devices. 
 
 
-## Constraints
-It is important to consider the process of how users submit art locations to travel to.
-This process can be open to all users or a select few to be able to moderate content. In the case that someone
-uploads inappropriate imagery or text, there needs to be a system for reporting which should be accounted for in the app's design.
 
 
 

@@ -4,8 +4,8 @@ const typography = new Typography({
   title: 'AdelleSans',
   baseFontSize: '20px',
   baseLineHeight: 1.4,
-  blockMarginBottom: 0.6,
-  scaleRatio: 3.0,
+  blockMarginBottom: 0.7,
+  scaleRatio: 2.1,
   headerFontFamily: [
     'adelle-sans',
     'Lucida Grande',
