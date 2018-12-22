@@ -37,7 +37,7 @@ Before starting the design process, it is important to realize the interactions 
 
 
 # Understanding business requirements
-By interacting with managers, employees, and customers of SLODOCO, here are reoccuring observations:
+By interacting with managers, employees, and customers of SLODOCO, these conclusions can be drawn:
 + SLODOCO makes the most amount of money from tourists, locals, and college students
 + SLODOCO looks to make the entire experience of buying a donut as effortless as possible
 + Socializing with others improves the experience
@@ -53,15 +53,15 @@ In attempting to discover more about our users, our research stage took the form
 
 ![Current Site](./images/usability-accessment.jpg)
 
-Common Observations Across Two Different Usability Accessments:
-+ Users attempt to click on logo when trying to nagivate home
+Common Observations Across Two Different Usability Assessments:
++ Users attempt to click on the logo when trying to navigate home
 + Users attempt to click on donuts
 + Users didn't know that custom orders were possible
 
 ## Interviewing Users
 Based on where SLODOCO makes the most revenue, it would make the most sense to interview someone from every customer segment. In order to get data that is representative of the population, qualitative data will be collected at different times throughout the day. 
 
-Before asking participants questions, we had them do a three minute priming activity to write or draw anything regarding donuts. After they finish, they would asked about what they created and for what reasons.
+Before asking participants questions, we had them do a 3 minute priming activity to write or draw anything regarding donuts. After they finish, they asked about what they created and for what reasons.
 
 From talking to two participants, we affirmed our beliefs:
 + SLODOCO’s target demographic does not like to spend time waiting in line
@@ -78,19 +78,19 @@ Because of these reasons, we felt it would be effective to focus on tourists for
 
 ![Survey Results](./images/survey.jpg)
 
-The survey proved to give us much insight on customer behaviors overall. The survey answers allude to the fact that it would be beneficial to create an app or mobile game for SLODOCO.
+The survey proved to give us much insight about customer behaviors overall. The survey answers allude to the fact that it would be beneficial to create an app or mobile game for SLODOCO.
 
 ## Card Sort
 
-The user is given a set of cards and the user will try to sort cards with different donuts and activies into time categories that fit the best (Morning, Afternoon, Night, Late-night, Anytime).
+The user is given a set of cards and the user will try to sort cards with different donuts and activities into time categories that fit the best (Morning, Afternoon, Night, Late-night, Anytime).
 
 ![Survey Results](./images/cardsort.jpg)
 
-In terms of responses, we were able to figure out which donuts are prefered during each time of day. The regular donuts are mostly wanted in the morning or at anytime, specialty donuts are wanted more in the afternoon, and the dessert donuts are preferred either at night or late-night.
+In terms of responses, we were able to figure out which donuts are preferred during each time of day. The regular donuts are wanted anytime, specialty donuts are wanted in the afternoon, and the dessert donuts are preferred either at night.
 
 # Information Architecture
 
-Based on the research, we tried to understand more closely how the old site information was being orgainzed. In this exercise, we realized the hierarchy does not always make sense to the user. 
+Based on the research, we tried to understand more closely how the old site information was being organized. In this exercise, we realized the hierarchy does not always make sense to the user. 
 
 Most users according to our personas aren't looking to apply to work there or are looking at ordering custom donuts. While deals do logically make sense in its current place, our users would prefer that to be in its own section because of the frequency that users are looking for deals. 
 
@@ -128,11 +128,11 @@ Based on the personas we created, we used such personas to guide scenarios that 
 ## Jeff and Donut Availability
 
 + Jeff Campbell is working in architecture studio on a late weeknight and he is starting to get a craving for something sweet.
-+ Jeff is craving SLODOCO as it is one of his guilty pleasures, but is unsure if his favorate donut is in stock. 
++ Jeff is craving SLODOCO as it is one of his guilty pleasures, but is unsure if his favorite donut is in stock. 
 + Jeff opens the SLODOOCO app, realizes that SLODOCO is all out.
 + Jeff is able to see that a new batch will be ready soon.
 + Jeff receives a notification that the donuts are ready
-+ Jeff heads to the shop, chats with the casher, and goes back to continue working on his school project.
++ Jeff heads to the shop, chats with the cashier, and goes back to continue working on his school project.
 
 
 # Storyboard

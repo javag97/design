@@ -1,23 +1,23 @@
 const colors = {
   white: {
-    base: '#fff',
-    light: '#f0f0f0',
-    grey: '#cecece',
-    dark: '#a0afd7',
+    base: '#FFFFFF',
+    light: '#EEEEEE',
+    grey: '#CFD8DC',
+    dark: '#90A4AE',
   },
   black: {
     base: '#333438',
-    light: '#4b4e57',
-    blue: '#2e3246',
+    light: '#424242',
+    blue: '#263238',
   },
   primary: {
-    base: '#3498db',
-    light: '#3e5fbc',
-    dark: '#284187',
+    base: '#303F9F',
+    light: '#5C6BC0',
+    dark: '#303F9F',
   },
   background: {
-    light: '#3e5fbc',
-    dark: '#284187',
+    light: '#5C6BC0',
+    dark: '#311B92',
   },
 };
 
