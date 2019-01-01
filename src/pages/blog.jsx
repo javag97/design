@@ -9,7 +9,7 @@ const Blog = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Work'} />
+      <Helmet title={'Work | UX Design Portfolio of Javier Garcia'} />
       <Header title="Work">UX Designer from San Diego.</Header>
       {edges.map(({ node }) => (
         <BlogList

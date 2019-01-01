@@ -17,7 +17,7 @@ const Text = styled.div`
 
 const About = center => (
   <Layout>
-    <Helmet title={'About Page'} />
+    <Helmet title={'About | UX Design Portfolio of Javier Garcia'} />
     <Header title="About me.">UX Designer from San Diego.</Header>
     <Container center={center}>
 
