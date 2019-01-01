@@ -47,7 +47,9 @@ We asked the following questions to five different individuals about their trave
 + How do you balance local culture and tourist attractions?
 + What do you enjoy about artistic attractions?
 
-From speaking with real people, we discovered these general findings.
+## Observations
+
+From speaking with people, we discovered these findings.
 
 + Spending too much time around tourist destinations can feel constructed
 + Balance of both tourist destinations and non-tourist destinations 
@@ -116,7 +118,7 @@ We used an [adapted sample script](https://www.sensible.com/downloads/test-scrip
 
 From three usability tests, we could see that our first two tasks of our interface were easy to follow. Yet, our third task was confusing to participants. 
 
-When our participants looked for an item on a list, we expected them to understand pagination. Instead, their natural response was to [scroll and not sort] (https://uxmyths.com/post/654047943/myth-people-dont-scroll). 
+When our participants looked for an item on a list, we expected them to understand pagination. Instead, their natural response was to [scroll and not sort](https://uxmyths.com/post/654047943/myth-people-dont-scroll). 
 
 ![Usability Results](./images/usability-changes.jpg)
 

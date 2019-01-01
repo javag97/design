@@ -8,10 +8,10 @@ published: true
 tags: ['User experience design', 'Visual design', 'Sketch']
 ---
 
-(Start-up Weekend Santa Barbara) Connecting the aerospace industry to high quality manufactoring of the 21st century. 
+Connecting the aerospace industry to high quality manufacturing of the 21st century (Start-up Weekend Santa Barbara).
 
 # Role
-Throughout this project, I was the team's only designer and took most responsibilies from research, experience design, and visual design.
+Throughout this project, I was the team's only designer and took most responsibilities from research, experience design, and visual design.
 
 # Collaborators 
 ![Team Photo](./images/team.jpg)
@@ -27,20 +27,20 @@ Throughout this project, I was the team's only designer and took most responsibi
 
 ![Falcon 9 Explosion](https://c1.staticflickr.com/1/405/33000638185_7209f3f887_b.jpg)
 
-SpaceX’s Falcon 9 is a prime example of how [one faulty part led to total loss of spacecraft](https://www.bbc.com/news/science-environment-33305083). Organizations like SpaceX, JPL, and Boeing have issues with having access to parts that are in conformance to perfect manufacturing. The most common method for vetting suppliers is to cold call them and try to organize this information internally.  
+SpaceX’s Falcon 9 is a prime example of how [one faulty part led to total loss of spacecraft](https://www.bbc.com/news/science-environment-33305083). Organizations like SpaceX, JPL, and Boeing have issues with having access to parts that .
+
+The most common method for vetting suppliers is to cold call them and try to organize this information internally.  
 
 # Problem 
 In the aerospace industry, part malfunctions are a serious problem and companies don't like dealing this keeping information about suppliers internally. Many companies would rather focus on engineering work than managing their connections. Datum is attempting to create a funnel for building a relationship between suppliers and aerospace businesses. 
 
 # Competitive Analysis 
 From our research, there are no direct competors to this product. The only competition are aerospace businesses that manage such information internally. 
-
+ 
 
 # Personas
 ![](./images/datum-personas.001.jpeg)
-![](./images/datum-personas.002.jpeg)
 ![](./images/datum-personas.003.jpeg)
-![](./images/datum-personas.004.jpeg)
 
 
 # Wireframe
