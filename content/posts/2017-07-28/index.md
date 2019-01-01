@@ -39,8 +39,8 @@ From our research, there are no direct competors to this product. The only compe
  
 
 # Personas
-![](./images/datum-personas.001.jpeg)
-![](./images/datum-personas.003.jpeg)
+![](./images/datum-personas-001.jpeg)
+![](./images/datum-personas-002.jpeg)
 
 
 # Wireframe
