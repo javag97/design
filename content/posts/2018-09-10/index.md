@@ -1,5 +1,5 @@
 ---
-path: "/work/start"
+path: "/start"
 cover: "./StArt.jpg"
 slug: "StArt"
 date: "2018-09-20"
@@ -8,6 +8,8 @@ published: false
 tags: ['Research','Usability testing', 'Wireframing','User-centered design','Visual design']
 ---
 An augmented reality mobile app to learn more about culture and art while traveling.
+
+<!-- end -->
 
 # Role
 I designed an impactful mobile app experience from start to finish. This was a personal project.   
@@ -47,9 +49,7 @@ We asked the following questions to five different individuals about their trave
 + How do you balance local culture and tourist attractions?
 + What do you enjoy about artistic attractions?
 
-## Observations
-
-From speaking with people, we discovered these findings.
+From speaking with real people, we discovered these general findings.
 
 + Spending too much time around tourist destinations can feel constructed
 + Balance of both tourist destinations and non-tourist destinations 

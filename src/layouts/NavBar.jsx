@@ -33,8 +33,8 @@ const NavBar = () => (
       <img src={logo} alt="Javier's Logo" />
     </StyledLink>
     <Nav>
-      <Link to="/">Home</Link>
-      <Link to="/work">Work</Link>
+      <Link to="/">Portfolio</Link>
+      <Link to="/resume">Resume</Link>
       <Link to="/about">About</Link>
     </Nav>
   </Headroom>

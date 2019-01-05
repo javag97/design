@@ -1,5 +1,5 @@
 ---
-path: "/works/slodocotogo"
+path: "/slodocotogo"
 cover: "./slodoco.jpg"
 slug: "post-three"
 date: "2017-07-17"
@@ -9,7 +9,7 @@ published: true
 ---
 
 Pefecting the donut consumption experience for busy people always on the go.
-
+<!-- end -->
 
 # Role
 I was involved in designing an impactful mobile app experience for SLO Donut Co, a popular donut shop located less than two miles from Cal Poly’s campus.

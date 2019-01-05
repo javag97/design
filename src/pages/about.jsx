@@ -18,12 +18,12 @@ const Text = styled.div`
 const About = center => (
   <Layout>
     <Helmet title={'About | UX Design Portfolio of Javier Garcia'} />
-    <Header title="About me.">UX Designer from San Diego.</Header>
+    <Header title=""></Header>
     <Container center={center}>
 
       <Text>
       <img src={portrait} alt="Picture of Javier Garcia" />
-        <h3>First-generation Latino from South San Diego, California. Undegrad @ Cal Poly SLO studying UI/UX and Computer Science. Seeking full-time opportunities to give back to my community.</h3>
+        <h3>First-generation Latino from South San Diego, California. Undegrad @ Cal Poly SLO studying UI/UX and Computer Science. Seeking full-time opportunities that allow me to give back to my community.</h3>
 
 
         <h3>Current gigs:  <a href ="https://www.calpolycorporation.org/">Cal Poly Corporation Marketing & Communications</a>, <a href ="http://www.polyhacks./">Camp PolyHacks</a>.</h3>
