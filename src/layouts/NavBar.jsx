@@ -6,6 +6,7 @@ import logo from '../../static/logo/header-logo.png';
 
 const StyledLink = styled(Link)`
   display: flex;
+  align-items: center;
   font-weight: 700;
   align-items: center;
 `;
@@ -17,9 +18,9 @@ const Nav = styled.nav`
   font-weight: 500;
   font-size: 1.1rem;
   align-items: center;
-  a {
+  a, p {
     color: ${props => props.theme.colors.white.base};
-    margin-left: 2rem;
+    margin: 0rem 1rem;
     transition: all ${props => props.theme.transitions.default.duration};
     &:hover {
       color: ${props => props.theme.colors.white.grey};

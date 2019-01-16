@@ -7,7 +7,7 @@ import { Layout, Container } from 'layouts';
 
 const ErrorPage = center => (
   <Layout>
-    <Helmet title={'404'} />
+    <Helmet title={'Invalid Page'} />
     <Header title="Well, that's not what I expected." />
     <Container center={center}>
       <h3>This page does not exist or is no longer reachable.</h3>

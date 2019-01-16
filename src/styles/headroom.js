@@ -10,9 +10,10 @@ const headroom = css`
   }
   .headroom {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     align-items: baseline;
-    flex-direction: row;
+    flex-direction: column;
     width: 100%;
     padding: 1rem 1.5rem;
     svg {
@@ -23,20 +24,25 @@ const headroom = css`
     }
   }
   .headroom--unfixed {
+    align-items: center;
     position: relative;
     transform: translateY(0);
     transition: ${theme.transitions.headroom.transition};
+    align-items: center;
   }
   .headroom--scrolled {
+    align-items: center;
     transition: ${theme.transitions.headroom.transition};
   }
   .headroom--unpinned {
+    align-items: center;
     position: fixed;
     transform: translateY(-100%);
     transition: ${theme.transitions.headroom.transition};
   }
   .headroom--pinned {
     position: fixed;
+    align-items: center;
     transform: translateY(0);
     transition: ${theme.transitions.headroom.transition};
     background-color: ${theme.colors.white.light};

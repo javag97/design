@@ -14,13 +14,14 @@ const Wrapper = styled.header`
   }
   position: relative;
   overflow: hidden;
+  align-items: center;
 `;
 
 const Text = styled.div`
   color: ${props => props.theme.colors.white.base};
   z-index: 0;
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
@@ -42,8 +43,7 @@ const Header = ({ children, title, date, cover }) => (
   <Wrapper>
     <Img fluid={cover || {} || [] || ''} />
     <Text>
-      <h1>{title}</h1>
-      <h3>{date}</h3>
+
 
       {children && <Subtitle>{children}</Subtitle>}
     </Text>

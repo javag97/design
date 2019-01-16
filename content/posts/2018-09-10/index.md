@@ -125,8 +125,9 @@ When our participants looked for an item on a list, we expected them to understa
 Or changes was to make this screen default to sort by date. Also, a sort button with a drop-down gives users control of how they want to sort. From testing our third task again, our users were able to finish the task.
 
 # Visual language suggestions
- ![Visual Suggestions to ](./images/visual-suggestions.jpg)
 Users spend most of their time on other applications. We can use other existing design patterns to guide our process. Material Design and Pokémon Go inspired the visual language. Material Design has a far reach that many users have come across. Pokemon Go is a similar domain of augmented reality. This process was about adapting what currently exists to StArt. 
+
+![Visual Suggestions to ](./images/visual-suggestions.jpg)
 
 # Final product
 From both iterations, we wanted to be more expressive as the app must resonate with people who are fans of art. This can be difficult when trying to also follow common design patterns elsewhere. 
