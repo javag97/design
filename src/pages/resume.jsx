@@ -57,4 +57,18 @@ const Resume = () => {
   );
 };
 
+
+export const  query = `
+{
+  allFile(filter: { extension: { eq: "pdf" } }) {
+    edges {
+      node {
+        publicURL
+      }
+    }
+  }
+}
+
+`
+
 export default Resume;

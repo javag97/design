@@ -2,8 +2,6 @@ import React, { Fragment } from 'react';
 import { ThemeProvider } from 'emotion-theming';
 import { injectGlobal } from 'react-emotion';
 import PropTypes from 'prop-types';
-import 'typeface-open-sans';
-import 'typeface-candal';
 import { SEO } from 'components';
 import { NavBar, Footer } from 'layouts';
 import theme from '../../config/theme';
