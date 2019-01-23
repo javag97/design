@@ -30,7 +30,7 @@ const Resume = () => {
       <Header title=""></Header>
      
       <Content>
-      <p><a href="/Javier_Garcia_Resume.pdf" target="_blank">Open PDF in a new window.</a></p>
+      <p><a href="http://bit.ly/javiergarciaresume" target="_blank">Open PDF in a new window.</a></p>
       <h1>Education</h1>
       <p>California Polytechnic State University, San Luis Obispo<br /> Bachelor of Science: Graphic Communication<br />Expected Graduation Date: June 2019<br />Web and Digital Media Concentration<br />Minor: Computer Science Minor</p>
       <h1>Experience</h1>
