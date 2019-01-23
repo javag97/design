@@ -8,7 +8,7 @@ tags: ['xd', 'balsamiq', 'Card sort', 'Usability analysis', 'Survey', 'Business 
 published: true
 ---
 
-Pefecting the donut consumption experience for busy people always on the go.
+Perfecting the donut consumption experience for busy people always on the go.
 <!-- end -->
 
 # Role
