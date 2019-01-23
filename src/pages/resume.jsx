@@ -35,23 +35,20 @@ const Resume = () => {
       <p>California Polytechnic State University, San Luis Obispo<br /> Bachelor of Science: Graphic Communication<br />Expected Graduation Date: June 2019<br />Web and Digital Media Concentration<br />Minor: Computer Science Minor</p>
       <h1>Experience</h1>
       <h2>Web Development Intern | Cal Poly Corporation<br />April 2018–Present</h2>
-      <p>Migrated pattern library to Astrum pattern library to create consistency and increase documentation within web components <br />Improved experience for mobile and older browsers<br /> Created dining menu for buffet venue using Google Places</p>
+      <p>Migrated pattern library to create consistency and increase documentation within web components<br />Improved browser support for mobile and older browsers<br />Created dynamic dining menu webpage using Chartswell API</p>
       <h2>Web Designer & PR Lead | PolySat Cal Poly<br />April 2017–January 2018</h2>
-      <p>Established and manage Public Relations team within engineering research lab<br />Assessed data analytics to guide website landing page changes</p>
+      <p>Established and manage Public Relations team within research lab<br />Assessed data analytics to guide website landing page changes</p>
       <h2>Student Technician | ITS Services Cal Poly<br />March 2017–October 2017</h2>
       <p>Diagnosed and repaired broken technology equipment across buildings<br />Articulated technical details to students and faculty in layman’s terms</p>
       <h1>Leadership</h1>
       <h2>Experience Director & Web Developer | Camp PolyHacks<br />September 2017–January 2018, July 2018 – Present</h2>
-      <p>Collaborated with design team in brand refresh by conducting user interviews and creating personas<br />Promoted move towards making site open source<br />Developed static website over two years</p>
-      <h2>Media Officer & Adobe Brand Ambassador | Mat Pica Pi<br />September 2017–May 2018
-</h2>
-<p>Photographed events and assisted in design collateral <br />
-Fostered a community of creative individuals and empowered them by offering Adobe products for free</p>
-<h1>Skills</h1>
-<h2>Development</h2>
-<p>HTML, CSS, Javascript, React, Git, Serverless Architecture, Swift, Java, C</p>
-<h2>Design</h2>
-<p>User Experience, Prototyping, Typography, Visual Design</p>
+      <p>Collaborated with design team in brand refresh by conducting user interviews and creating personas<br />Promoted move towards making site open source<br />Designed JAMstack website architecture over two years</p>
+      <h2>Media Officer & Adobe Brand Ambassador | Mat Pica Pi<br />September 2017–May 2018</h2>
+      <p>Photographed events and assisted in design collateral <br />
+      Fostered a community of creative individuals and empowered them by offering Adobe products for free</p>
+      <h1>Skills</h1>
+      <h2>Development | Development</h2>
+      <p>HTML, CSS, Javascript, React, Git, Serverless Architecture, Swift, Java, C<br /> User Experience, Prototyping, Typography, Visual Design </p>
 
 
       </Content>
