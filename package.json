@@ -3,7 +3,7 @@
   "author": "Javier Garcia",
   "title": "Gatsby Portfolio Starter",
   "description": "UX Design Portfolio of Javier Garcia",
-  "homepage": "https://gatsby-tutorial-starter.netlify.com",
+  "homepage": "https://javiergarcia.io",
   "license": "MIT",
   "version": "0.0.7",
   "repository": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/javag97/design"
   },
   "scripts": {
-    "develop": "gatsby develop",
+    "develop":"gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "rm -rf public && rm -rf .cache",
