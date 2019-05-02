@@ -1,22 +1,20 @@
 import Typography from 'typography';
 
 const typography = new Typography({
-  title: 'AdelleSans',
+  title: 'JaviPortfolio',
   baseFontSize: '20px',
   baseLineHeight: 1.7,
   blockMarginBottom: 1.0,
   scaleRatio: 1.618,
   headerFontFamily: [
-    'adelle-sans',
+    'ff-meta-web-pro',
     'Lucida Grande',
     'Verdana',
     'sans-serif',
   ],
   bodyFontFamily: [
-    'adelle-sans',
-    'Lucida Grande',
-    'Verdana',
-    'sans-serif',
+    'ff-meta-serif-web-pro',
+    'serif',
   ],
   bodyGray: 20,
   headerWeight: 700,

@@ -67,14 +67,14 @@ const theme = {
   },
   fontFamily: {
     // eslint-disable-next-line
-    body: `'adelle-sans', 'Lucida Grande', 'Verdana', 'sans-serif'`,
+    //body: `'adelle-sans', 'Lucida Grande', 'Verdana', 'sans-serif'`,
     // eslint-disable-next-line
-    heading: `'adelle-sans', 'Lucida Grande', 'Verdana', 'sans-serif'`,
+    //heading: `'adelle-sans', 'Lucida Grande', 'Verdana', 'sans-serif'`,
   },
   layout: {
     article: '46rem',
     base: '70rem',
-    big: '83.33333rem',
+    big: '43.33333rem',
   },
   borderRadius: {
     default: '0.4rem',

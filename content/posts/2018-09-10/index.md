@@ -11,8 +11,10 @@ An augmented reality mobile app to learn more about culture and art while travel
 
 <!-- end -->
 
+Our app's vision is to promote the celebration of culture and spirit of artistry. We want to connect travelers to local art in an effort to make our world more aware of other's culture.
+
 # Role
-I designed an impactful mobile app experience from start to finish. This was a personal project.   
+I designed an impactful mobile app experience from start to finish. This was a school project.   
 
 ## Collaborators
 [Anna Shambaugh](https://www.linkedin.com/in/anna-shambaugh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BDHyLxgxGQlKAmE3smEDQJw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=hEqIYOcPSP%2Bx23GMhJUXaQ%3D%3D) - UX Design
@@ -25,7 +27,7 @@ I designed an impactful mobile app experience from start to finish. This was a p
 
 Any laymen person would be able to tell you in an instant where the subject of the first photograph is. A local from London might tell you that they pass by the second photograph on their morning commute. London is one of the most visited locations in the world with [thirty million annual visitors](http://www.uncsbrp.org/tourism.htm). Yet, only a handful of people could tell you how this mural came to be. 
 
-Our app's goal is to promote the celebration of culture and spirit of artistry. The art of a society reflects a lot about the society itself. By allowing others to discover local art, the hope is that other people can be more aware of their own culture.
+
 
 # Problem
 

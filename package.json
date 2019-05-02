@@ -11,7 +11,7 @@
     "url": "https://github.com/javag97/design"
   },
   "scripts": {
-    "develop":"gatsby develop",
+    "start":"gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "rm -rf public && rm -rf .cache",
