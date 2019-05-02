@@ -19,7 +19,7 @@ const Text = styled.div`
   padding-bottom: 2rem;
   text-align: center;
   color: ${props => props.theme.colors.white.light};
-  a{
+  a {
     color: #ffffff;
   }
 `;

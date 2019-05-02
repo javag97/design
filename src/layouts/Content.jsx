@@ -6,7 +6,7 @@ import prism from '../styles/prism';
 const Wrapper = styled.div`
   ${prism};
   a:not(.gatsby-resp-image-link):not(.anchor) {
-    color: #2B2B2B;
+    color: #2b2b2b;
     box-shadow: inset 0 -2px 0 ${props => props.theme.colors.primary.base};
     border-bottom: 1px solid ${props => props.theme.colors.primary.base};
     transition: ${props => props.theme.transitions.default.transition};

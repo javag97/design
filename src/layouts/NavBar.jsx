@@ -2,7 +2,8 @@ import React from 'react';
 import { Link } from 'gatsby';
 import styled from 'react-emotion';
 import Headroom from 'react-headroom';
-import logo from '../../static/logo/header-logo.png';
+import logo from '../../static/logo/header-logo.svg';
+
 
 const StyledLink = styled(Link)`
   display: flex;
@@ -18,7 +19,8 @@ const Nav = styled.nav`
   font-weight: 500;
   font-size: 1.1rem;
   align-items: center;
-  a, p {
+  a,
+  p, img {
     color: ${props => props.theme.colors.white.base};
     margin: 0rem 1rem;
     transition: all ${props => props.theme.transitions.default.duration};
@@ -28,15 +30,24 @@ const Nav = styled.nav`
   }
 `;
 
+
+const divContainer = {
+   width: '100%',
+   display: 'flex',
+   justifyContent: 'center'
+
+};
+
+
 const NavBar = () => (
   <Headroom calcHeightOnResize disableInlineStyles>
-    <StyledLink to="/">
-      <img src={logo} alt="Javier's Logo" />
-    </StyledLink>
+     <StyledLink to = '/' style = {divContainer}>
+         <img src = {logo} alt = "Javier's Logo" />
+      </StyledLink>
     <Nav>
-      <Link to="/">Portfolio</Link>
-      <Link to="/resume">Resume</Link>
-      <Link to="/about">About</Link>
+      <Link to = "/">Portfolio</Link>
+      <Link to = "/resume">Resume</Link>
+      <Link to = "/about">About</Link>
     </Nav>
   </Headroom>
 );

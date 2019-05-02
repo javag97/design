@@ -78,29 +78,27 @@ const SEO = ({ title, desc, banner, pathname, article }) => (
         ];
       }
       return (
-        
-          <Helmet title={seo.title}>
-            <html lang={siteLanguage} />
-            <link rel="stylesheet" href="https://use.typekit.net/ucd8mku.css" /> /* Typekit and finding a way for it to build*/
-            <meta name="description" content={seo.description} />
-            <meta name="image" content={seo.image} />
-            <meta name="apple-mobile-web-app-title" content={shortName} />
-            <meta name="application-name" content={shortName} />
-            <script type="application/ld+json">
-              {JSON.stringify(schemaOrgJSONLD)}
-            </script>
-
-            {/* OpenGraph  */}
-            <meta property="og:url" content={seo.url} />
-            <meta property="og:type" content={article ? 'article' : null} />
-            <meta property="og:title" content={seo.title} />
-            <meta property="og:description" content={seo.description} />
-            <meta property="og:image" content={seo.image} />
-
-
-
-          </Helmet>
-       
+        <Helmet title={seo.title}>
+          <html lang={siteLanguage} />
+          <link
+            rel="stylesheet"
+            href="https://use.typekit.net/ucd8mku.css"
+          />{' '}
+          /* Typekit and finding a way for it to build*/
+          <meta name="description" content={seo.description} />
+          <meta name="image" content={seo.image} />
+          <meta name="apple-mobile-web-app-title" content={shortName} />
+          <meta name="application-name" content={shortName} />
+          <script type="application/ld+json">
+            {JSON.stringify(schemaOrgJSONLD)}
+          </script>
+          {/* OpenGraph  */}
+          <meta property="og:url" content={seo.url} />
+          <meta property="og:type" content={article ? 'article' : null} />
+          <meta property="og:title" content={seo.title} />
+          <meta property="og:description" content={seo.description} />
+          <meta property="og:image" content={seo.image} />
+        </Helmet>
       );
     }}
   />

@@ -15,7 +15,7 @@ const headroom = css`
     align-items: baseline;
     flex-direction: column;
     width: 100%;
-    padding: 1rem 1.5rem;
+    padding: 2rem 1.5rem;
     svg {
       height: 2.5rem;
       g {
@@ -41,7 +41,7 @@ const headroom = css`
     transition: ${theme.transitions.headroom.transition};
   }
   .headroom--pinned {
-    position: fixed;
+   position: fixed;
     align-items: center;
     transform: translateY(0);
     transition: ${theme.transitions.headroom.transition};
@@ -49,7 +49,9 @@ const headroom = css`
     box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
     nav {
       a {
-        color: ${theme.colors.black.base};
+         img{
+            color: ${theme.colors.black.base};
+         }
         &:hover {
           border-color: ${theme.colors.black.base};
           color: ${theme.colors.black.base};
@@ -59,8 +61,6 @@ const headroom = css`
         }
       }
     }
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
     svg {
       height: 2.5rem;
       g {
@@ -68,7 +68,7 @@ const headroom = css`
       }
     }
     span {
-      color: ${theme.colors.black.base};
+      color: ${theme.colors.white.base};
     }
   }
 `;

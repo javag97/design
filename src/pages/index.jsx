@@ -25,7 +25,7 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title={'UX Design Portfolio of Javier Garcia'} />
-      <Header title=""></Header>
+      <Header title="" />
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList
