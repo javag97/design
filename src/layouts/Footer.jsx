@@ -2,10 +2,12 @@ import React from 'react';
 import styled from 'react-emotion';
 
 const Wrapper = styled.footer`
+  display: flex;
+  justify-content: center;
   position: relative;
+  width: 100%;
   padding-top: 2rem;
   bottom: 0;
-  box-shadow: ${props => props.theme.shadow.footer};
   background: ${props => props.theme.gradient.leftToRight};
   font-family: ${props => props.theme.fontFamily.body};
   font-weight: 500;
