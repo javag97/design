@@ -43,7 +43,6 @@ const NavBar = () => (
     </StyledLink>
     <Nav>
       <Link to="/">Portfolio</Link>
-      <Link to="/resume">Resume</Link>
       <Link to="/about">About</Link>
     </Nav>
   </Headroom>

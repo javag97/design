@@ -5,7 +5,7 @@ slug: "post-three"
 date: "2017-07-17"
 title: "SLO DO CO to go"
 tags: ['xd', 'balsamiq', 'Card sort', 'Usability analysis', 'Survey', 'Business requirements','Information architecture', 'Affinity mapping']
-published: true
+published: false
 ---
 
 Perfecting the donut consumption experience for busy people always on the go.

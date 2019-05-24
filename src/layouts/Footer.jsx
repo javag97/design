@@ -27,9 +27,9 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        <a href="https://www.linkedin.com/in/javigme/">LinkedIn</a> –{' '}
-        <a href="https://github.com/javag97">Github</a> –{' '}
-        <a href="mailto:jgarcme@gmail.com">Email</a>
+        <a href="mailto:jgarcme@gmail.com">Email Me: jgarcme@gmail.com</a> {' — '}
+        <a target="_blank" href="https://github.com/javag97">Github</a> {' — '}
+        <a href="https://www.linkedin.com/in/javigme/">LinkedIn</a>
       </span>
     </Text>
   </Wrapper>

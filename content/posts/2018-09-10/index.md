@@ -4,7 +4,7 @@ cover: "./StArt.jpg"
 slug: "StArt"
 date: "2018-09-20"
 title: "StArt"
-published: false
+published: true
 tags: ['Research','Usability testing', 'Wireframing','User-centered design','Visual design']
 ---
 An augmented reality mobile app to learn more about culture and art while traveling.
