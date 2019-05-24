@@ -28,7 +28,7 @@ const About = center => (
 
         <h3>Current gigs:  <a href ="https://www.jupyter.org/">Project Jupyter</a></h3>
      
-        <h4>Listening to: <a href="https://open.spotify.com/track/1OfUOufSXTjhUm5gK33uVN?si=L3kVIniOSnO9ygOxOerAiQ">Sativa – Jhene Aiko</a></h4>
+        <h4>Listening to: <a href="https://open.spotify.com/track/74sfJjVq74bYkxMQoOhH3r?si=UfpUPasaTUC14AXAyo0qjw">Keep Ya Head Up – Jhene Aiko</a></h4>
         <h4>Constantly re-reading : <a href="https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA/ref=sr_1_3?ie=UTF8&qid=1544561411&sr=8-3&keywords=the+power+of+now"> The Power of Now – Eckart Tolle</a></h4>
       </Text>
     </Container>

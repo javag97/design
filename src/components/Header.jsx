@@ -1,17 +1,17 @@
 import React from 'react';
 import styled from 'react-emotion';
-import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
 
 const Wrapper = styled.header`
   background: ${props => props.theme.gradient.rightToLeft};
-  height: 300px;
   @media (max-width: ${props => props.theme.breakpoints.m}) {
-    height: 300px;
+    height: 200px;
   }
   @media (max-width: ${props => props.theme.breakpoints.s}) {
-    height: 275px;
+    height: 175px;
   }
+  height: 200px;
+
   position: relative;
   overflow: hidden;
   align-items: center;
@@ -41,10 +41,7 @@ const Subtitle = styled.p`
 
 const Header = ({ children, title, date, cover }) => (
   <Wrapper>
-    <Img fluid={cover || {} || [] || ''} />
     <Text>
-
-
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
   </Wrapper>
