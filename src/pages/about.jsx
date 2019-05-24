@@ -23,7 +23,7 @@ const About = center => (
 
       <Text>
       <img src={portrait} alt="Picture of Javier Garcia" />
-        <h3>First-generation Latino from South San Diego, California. Undegrad @ Cal Poly SLO studying Product Design and Computer Science. Seeking full-time opportunities that allow me to give back to my community.</h3>
+        <h3>He/him/his. Designer, technology nerd, DIY enthusiast, lifelong learner. Seeking full-time opportunities within Product Designer that enpower me to give back.</h3>
 
 
         <h3>Current gigs:  <a href ="https://www.jupyter.org/">Project Jupyter</a></h3>
