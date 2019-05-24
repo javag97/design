@@ -33,7 +33,7 @@ const Post = ({ data, pageContext }) => {
   return (
     <Layout>
       <SEO
-        title={title}
+        title={'Javier Garcia — ' + title}
         description={post.frontmatter.description || post.excerpt || ' '}
         image={image}
         pathname={post.frontmatter.path}
