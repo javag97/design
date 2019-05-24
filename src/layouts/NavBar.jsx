@@ -30,6 +30,7 @@ const Nav = styled.nav`
 
 const divContainer = {
    width: '100%',
+   paddingTop: '24px',
    display: 'flex',
    justifyContent: 'center'
 
