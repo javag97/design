@@ -74,7 +74,7 @@ const theme = {
   layout: {
     article: '46rem',
     base: '70rem',
-    big: '43.33333rem',
+    big: '83.33333rem',
   },
   borderRadius: {
     default: '0.4rem',

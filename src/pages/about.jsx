@@ -7,8 +7,6 @@ import { Layout, Container } from 'layouts';
 import portrait from "../images/photo.jpg"
 
 const Text = styled.div`
-  
-
   img{
     max-height: 300px;
   }
@@ -23,7 +21,7 @@ const About = center => (
 
       <Text>
       <img src={portrait} alt="Picture of Javier Garcia" />
-        <h3>He/him/his. Designer, technology nerd, DIY enthusiast, lifelong learner. Seeking full-time opportunities within Product Designer that enpower me to give back.</h3>
+        <h3>He/him/his. Designer, coder, technology nerd, DIY enthusiast, lifelong learner. Seeking full-time opportunities within Product Designer that enpower me to give back.</h3>
 
 
         <h3>Current gigs:  <a href ="https://www.jupyter.org/">Project Jupyter</a></h3>

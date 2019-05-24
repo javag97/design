@@ -129,9 +129,9 @@ Or changes was to make this screen default to sort by date. Also, a sort button 
 # Visual language suggestions
 Users spend most of their time on other applications. We can use other existing design patterns to guide our process. Material Design and Pokémon Go inspired the visual language. Material Design has a far reach that many users have come across. Pokemon Go is a similar domain of augmented reality. This process was about adapting what currently exists to StArt. 
 
-![Visual Suggestions to ](./images/visual-suggestions.jpg)
+![Visual Suggestions with two different color schemes.](./images/visual-suggestions.jpg)
 
-# Final product
+# First iteration
 From both iterations, we wanted to be more expressive as the app must resonate with people who are fans of art. This can be difficult when trying to also follow common design patterns elsewhere. 
 
 ![Final Product](./images/final.jpg)

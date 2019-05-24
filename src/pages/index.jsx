@@ -24,7 +24,7 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'UX Design Portfolio of Javier Garcia'} />
+      <Helmet title={'Javier Garcia – Product Designer'} />
       <Header title=""></Header>
       <PostWrapper>
         {edges.map(({ node }) => (
