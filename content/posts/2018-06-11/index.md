@@ -31,3 +31,14 @@ Patternlab had difficulies being worked into our current build process. A soluti
 1. We can focus on workflows and logic, not hero blocks and form elements.
 2. We can reuse code instead of reinventing the wheel. If a new component is required, we can add it here for future use.
 3. We can see all of our styles and patterns in one place, quickly revealing maintenance issues.
+
+
+
+# Components created
+
+
+
+
+# Moving Forward
+
+What I learned from this expe

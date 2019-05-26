@@ -11,6 +11,11 @@ published: false
 Perfecting the donut consumption experience for busy people always on the go.
 <!-- end -->
 
+# Look at this Video:
+
+`video: https://www.youtube.com/embed/2Xc9gXyf2G4`
+
+
 # Role
 I was involved in designing an impactful mobile app experience for SLO Donut Co, a popular donut shop located less than two miles from Cal Poly’s campus.
 
