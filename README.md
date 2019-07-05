@@ -47,12 +47,6 @@ Special shout out to <a href="https://justinformentin.com/">Justin Formentin</a>
 
 <p align="center">
   <strong>
-    View the demo at <a href="https://gatsby-tutorial-starter.netlify.com">gatsby-tutorial-starter.netlify.com</a>.
-  </strong>
-</p>
-
-<p align="center">
-  <strong>
     Read the full step by step guide: <a href="https://justinformentin.com/build-gatsby-site-full-tutorial">Guide to Build a Gatsby Site with Perfect Pagespeed Scores</a></a>.
   </strong>
 </p>
