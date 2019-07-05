@@ -8,19 +8,37 @@ published: true
 tags: ['User experience design', 'Visual design', 'Design system']
 ---
 
-Creating a consistent design system for the Cal Poly Corporation.
-
+Updating a design system for the Cal Poly Corporation.
 <!-- end -->
 
-[Check out The Cookbook here](https://www.calpolydining.com/cookbook)
+
+![Mockup of finished pattern library](./images/cookbook-preview.jpg)
+
+
+[Check out the live site here.](https://www.calpolydining.com/cookbook)
+
+# Summary
+While working as a developer, our team realized that we needed to improve our documentation for various components. Our solution was to work upon Astrum, an open source pattern library that could be worked into our current site.
+
 
 # Role
-Throughout this project, I was the a web developer who undertook design responsibilities as we had no designers.
+Throughout the summer, I was the a student web developer who undertook web design responsibilities.
 
 + [Lauren Barker](https://www.linkedin.com/in/weblbdesigns/) - Full Stack Developer
++ [Carlos Paz]() – Student Developer
++ [Tyler Ratchod]() - Student Developer
   
-# Context
-The Cal Poly Corporation is an umbrella business that provides financial assisance to raining money for the university. Within my experience, I worked within dining services and started by increasing Internet Explorer 9+ support for card components. From talking to my boss, we wanted to look into trying to consolidate our work at one place.
+# Increasing web browser support
+ I worked within dining services and started by increasing Internet Explorer 9+ support for card components. Our motivation was to improve support among a decent percentage of users who were viewing the site (most likely parents and staff). 
+ 
+# Designing and developing a page 
+I worked within designing and developing a page that would show if our site ever had server issues that would cause the dining site to fail. 
+ 
+ ![Mockup of finished pattern library](./images/server-error-mockup.jpg)
+
+ 
+# The Cookbook as a Jekyll page 
+From talking to my boss, we wanted to look into trying to consolidate our work at one place.
 
 
 # Decisions

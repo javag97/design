@@ -4,17 +4,20 @@ cover: "./slodoco.jpg"
 slug: "post-three"
 date: "2017-07-17"
 title: "SLO DO CO to go"
-tags: ['xd', 'balsamiq', 'Card sort', 'Usability analysis', 'Survey', 'Business requirements','Information architecture', 'Affinity mapping']
-published: false
+tags: ['Usability testing','Card sort', 'Persona', 'Survey', 'Business model canvas','Information architecture', 'Affinity mapping']
+published: true
 ---
 
 Perfecting the donut consumption experience for busy people always on the go.
 <!-- end -->
 
-# Look at this Video:
+![problem slodoco](./images/slodoco-mockup.jpg)
 
-`video: https://www.youtube.com/embed/2Xc9gXyf2G4`
+# Summary
+SLO Donut Co. is a successful local donut shop that has problems with wait times during peak times. In this project, the goal was to make it easier for users on the go to order donuts online. 
 
+# Prototype
+`youtube: s7HTmnnUYTo`
 
 # Role
 I was involved in designing an impactful mobile app experience for SLO Donut Co, a popular donut shop located less than two miles from Cal Poly’s campus.
@@ -25,24 +28,20 @@ I was involved in designing an impactful mobile app experience for SLO Donut Co,
 + [Jenna Iarocci](https://www.linkedin.com/in/jenna-iarocci/) - UX Designer
 + [Amber Beckley]() - UX Designer
 
-# Context
-
-SLODOCO brings in about $200,000 of revenue every month. It comes to no surprise that this business knows how to attract people and has built a very successful business because of that. 
-
 # Problem
 
 During peak hours, it is not uncommon to see people waiting in lines out the door for as long as an hour just to order a single donut. Because of this demand, popular donuts often sell out quickly. To the consumer, it is a waste of effort and time. In this interaction, there is both a tangible and intangible cost to their business. 
 
 ![problem slodoco](./images/problem.jpg)
 
-# Preface
-Before starting the design process, it is important to realize the interactions between a business and its customers. Without this, we are not designing with the users in mind.
+# About the business
+
+SLODOCO brings in about $200,000 of revenue every month. It comes to no surprise that this business knows how to attract people and has built a very successful business because of that. Before starting the design process, it is important to realize the interactions between a business and its customers. Without this, we are not designing with the users in mind.
 
 ![Business Model Canvas of SLO DO CO](./images/bmc.jpg)
 
 
-# Understanding business requirements
-By interacting with managers, employees, and customers of SLODOCO, these conclusions can be drawn:
+# Summary of business model canvas
 + SLODOCO makes the most amount of money from tourists, locals, and college students
 + SLODOCO looks to make the entire experience of buying a donut as effortless as possible
 + Socializing with others improves the experience
@@ -54,7 +53,7 @@ By interacting with managers, employees, and customers of SLODOCO, these conclus
 In attempting to discover more about our users, our research stage took the form of assessing usability of current site, interviewing users, creating a survey, and having users participate in a card sort.
 
 
-## Usability of Current Site
+## Usability testing current side
 
 ![Current Site](./images/usability-accessment.jpg)
 
@@ -118,7 +117,7 @@ From discovering various traits found in typical users, we decided that using mu
 
 # Scenarios
 
-Based on the personas we created, we used such personas to guide scenarios that users would find themselves interacting with the product.
+Based on the personas we created, we used that information to guide goals that users have.
 
 ## Clare and Loyalty/Coupon
 
@@ -155,15 +154,14 @@ This prototype was made in Balsamiq to test some tasks that would be performed b
 1. How many Strawberry French Crullers are available?
 2. SloDoCo has just sent you notifications about coupons, how would you be able to redeem your custom order coupon?
 
-
-## Usability Study Changes
-
-+ Add coupons tab separate from coupons
-+ Allow users to tap on entire boxes rather than just the button
-+ Be more conscious about chunking information so that users don't get overwhelmed with choices
-
-
 ![Prototype](./images/usability-results.jpg)
+
+## Most important changes for next iteration
+
++ Consider the use of deals compared to coupons
++ Allow users to tap on entire boxes rather than just the button
++ Be more conscious about chunking for users who are overwhelmed with choices
+
 
 ## Visual Language Suggestions
 
@@ -171,7 +169,10 @@ Based on the colors from within the store and their current brand that they have
 
 ![Visual Language](./images/visual-language.jpg)
 
-
+# Things learned
++ Easy to invalidate research if conducted poorly
++ Research can change over time to better reflect users
++ Design for user's goals, not tasks
 
 
 
