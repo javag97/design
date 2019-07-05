@@ -6,9 +6,9 @@ date: "2017-07-17"
 title: "SLO DO CO to go"
 tags: ['Usability testing','Card sort', 'Persona', 'Survey', 'Business model canvas','Information architecture', 'Affinity mapping']
 published: true
+excerpt: 'Perfecting the donut consumption experience for busy people always on the go.'
 ---
 
-Perfecting the donut consumption experience for busy people always on the go.
 <!-- end -->
 
 ![problem slodoco](./images/slodoco-mockup.jpg)
@@ -170,7 +170,7 @@ Based on the colors from within the store and their current brand that they have
 ![Visual Language](./images/visual-language.jpg)
 
 # Things learned
-+ Easy to invalidate research if conducted poorly
++ It is easy to invalidate research if conducted poorly
 + Research can change over time to better reflect users
 + Design for user's goals, not tasks
 

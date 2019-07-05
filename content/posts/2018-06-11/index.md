@@ -6,53 +6,57 @@ date: "2018-07-28"
 title: "The Cookbook"
 published: true
 tags: ['User experience design', 'Visual design', 'Design system']
+excerpt: 'Updating the Cookbook pattern library for the Cal Poly Corporation.'
 ---
 
-Updating a design system for the Cal Poly Corporation.
 <!-- end -->
 
 
 ![Mockup of finished pattern library](./images/cookbook-preview.jpg)
 
 
-[Check out the live site here.](https://www.calpolydining.com/cookbook)
+# Problem
+When working on a content driven website that required daily changes, there was lacking documentation among developers and nondevelopers alike. This led an effort to improve our internal documentation. 
 
-# Summary
-While working as a developer, our team realized that we needed to improve our documentation for various components. Our solution was to work upon Astrum, an open source pattern library that could be worked into our current site.
+<a href="https://www.calpolydining.com/cookbook" target="_blank">Check out the site here.</a>
 
 
 # Role
-Throughout the summer, I was the a student web developer who undertook web design responsibilities.
+I was the the web developer that was starting to take design responsibilities.
 
 + [Lauren Barker](https://www.linkedin.com/in/weblbdesigns/) - Full Stack Developer
 + [Carlos Paz]() – Student Developer
 + [Tyler Ratchod]() - Student Developer
+
+
+# Exploration into existing solutions
+With a small development team, we had to consider to perks of making our own solution. We went the direction of exploring into existing solutions as it would have minimal upfront development.
+
+## Concerns
+1. We want to see all of our styles and patterns in one place, quickly revealing maintenance issues.
+2. Solution would need to work out of the box without custom configuration
+3. No bells and whistles. Just a light platform with everything that we need. 
+
+## Astrum
+From looking into open-source lightweight and configurable solution to our problem, we landed upon using [Astrum](https://github.com/NoDivide/astrum). We then branded the site and filled it with our existing components. 
+
+![Mockup of finished pattern library](./images/astrum.png)
+
+
+# Uncovered efforts from working on the Cookbook
   
-# Increasing web browser support
- I worked within dining services and started by increasing Internet Explorer 9+ support for card components. Our motivation was to improve support among a decent percentage of users who were viewing the site (most likely parents and staff). 
+## Increasing web browser support
+As a decent percentage of users are viewing the site with older browsers, we wanted to improve Internet Explorer 10+ support. This led an effort to improve certain styles for card components. 
+
  
-# Designing and developing a page 
-I worked within designing and developing a page that would show if our site ever had server issues that would cause the dining site to fail. 
+## Server issue states 
+I worked on designing and developing a static page that would show if the dining site would not be able to be served due to server errors. Rather than receiving a 500 error page, users would see this page instead.
  
  ![Mockup of finished pattern library](./images/server-error-mockup.jpg)
 
- 
-# The Cookbook as a Jekyll page 
-From talking to my boss, we wanted to look into trying to consolidate our work at one place.
 
-
-# Decisions
-I have to talk to Lauren again to get information :-(, but
-Patternlab had difficulies being worked into our current build process. A solution that was less opinionated and lighter in size was what we were looking for. based on our criteria, We choose Astrum, an open source pattern library.
-
-# Benefits 
-1. We can focus on workflows and logic, not hero blocks and form elements.
-2. We can reuse code instead of reinventing the wheel. If a new component is required, we can add it here for future use.
-3. We can see all of our styles and patterns in one place, quickly revealing maintenance issues.
-
-
-
-# Components created
+## Form submit microinteraction
+In looking to extend the work within forms, we wanted to explore potential interactions when submitting any form across the dining site. The inspiration behind this was a [dribble confirm button animation](https://dribbble.com/shots/6538291-Confirm-button-animation).
 
 
 

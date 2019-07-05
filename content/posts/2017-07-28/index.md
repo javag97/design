@@ -4,11 +4,11 @@ cover: "./datum.jpg"
 slug: "post-two"
 date: "2017-07-28"
 title: "Datum"
-published: true
+published: false
 tags: ['User experience design', 'Visual design', 'Sketch']
+excerpt: 'Connecting the aerospace industry to high quality manufacturing of the 21st century.'
 ---
 
-Connecting the aerospace industry to high quality manufacturing of the 21st century.
 <!-- end -->
 
 # Role
