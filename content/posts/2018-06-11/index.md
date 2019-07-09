@@ -58,9 +58,6 @@ I worked on designing and developing a static page that would show if the dining
 ## Form submit microinteraction
 In looking to extend the work within forms, we wanted to explore potential interactions when submitting any form across the dining site. The inspiration behind this was a [dribble confirm button animation](https://dribbble.com/shots/6538291-Confirm-button-animation).
 
-
-
-
 # Moving Forward
 
-What I learned from this expe
+Under construction...

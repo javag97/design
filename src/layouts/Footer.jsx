@@ -1,5 +1,7 @@
 import React from 'react';
 import styled from 'react-emotion';
+import { Link } from 'gatsby';
+import { StaticQuery, graphql } from "gatsby"
 
 const Wrapper = styled.footer`
   display: flex;
@@ -23,15 +25,37 @@ const Text = styled.div`
   }
 `;
 
+
 const Footer = () => (
-  <Wrapper>
-    <Text>
-      <span>
-        <a href="mailto:jgarcme@gmail.com">Email Me: jgarcme@gmail.com</a> {' — '}
-        <a target="_blank" href="https://github.com/javag97">Github</a> {' — '}
-        <a href="https://www.linkedin.com/in/javigme/">LinkedIn</a>
-      </span>
-    </Text>
-  </Wrapper>
-);
+  <StaticQuery
+    query={graphql`
+    query FooterQuery{
+      allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+        edges {
+          node {
+            frontmatter {
+              title
+              path
+            }      
+          }
+        }
+      }
+    }
+    `}
+    render={ data => (
+      <Wrapper>
+        <Text>
+          {data.allMarkdownRemark.edges.map(({ node }) => 
+              <Link key={node.id}
+              to={node.frontmatter.path}>
+                 {node.frontmatter.title} 
+              </Link>
+          )}
+        </Text>
+      </Wrapper>
+    )
+  }
+  />
+  );
 export default Footer;
+
