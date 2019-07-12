@@ -46,10 +46,12 @@ const Footer = () => (
       <Wrapper>
         <Text>
           {data.allMarkdownRemark.edges.map(({ node }) => 
-              <Link key={node.id}
-              to={node.frontmatter.path}>
-                 {node.frontmatter.title} 
-              </Link>
+            <span>
+                <Link key={node.id}
+                to={node.frontmatter.path}>
+                  {node.frontmatter.title} 
+                </Link> - {' '}
+            </span>
           )}
         </Text>
       </Wrapper>
