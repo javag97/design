@@ -76,7 +76,7 @@ We asked the following questions to five different individuals about their trave
 + You’ve been exploring for a couple hours now and you want to see a list of what art pieces you’ve seen. Try to find a mosaic that you visited on January 23rd.
 
 
-// jul 11
+// jul 11 - edit below this then go back above
 
 ### Scenario
 
