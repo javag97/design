@@ -2,7 +2,7 @@ import Typography from 'typography';
 
 const typography = new Typography({
   title: 'JaviPortfolio',
-  baseFontSize: '20px',
+  baseFontSize: '18px',
   baseLineHeight: 1.7,
   blockMarginBottom: 1.0,
   scaleRatio: 1.618,

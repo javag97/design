@@ -50,18 +50,18 @@ injectGlobal`
 `;
 
 const Layout = ({ children }) => (
-  <ThemeProvider theme={theme}>
-    <Fragment>
-      <SEO />
-      <NavBar />
-      {children}
-      <Footer />
-    </Fragment>
-  </ThemeProvider>
+   <ThemeProvider theme={theme}>
+      <Fragment>
+         <SEO />
+         <NavBar />
+         {children}
+         <Footer />
+      </Fragment>
+   </ThemeProvider>
 );
 
 export default Layout;
 
 Layout.propTypes = {
-  children: PropTypes.oneOfType([PropTypes.array, PropTypes.node]).isRequired,
+   children: PropTypes.oneOfType([PropTypes.array, PropTypes.node]).isRequired,
 };

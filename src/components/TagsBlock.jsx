@@ -23,21 +23,21 @@ const TagsContainer = styled.div`
 `;
 
 const TagsBlock = ({ list }) => (
-  <TagsContainer>
-    {list &&
-      list.map(tag => {
-        const upperTag = tag.charAt(0).toUpperCase() + tag.slice(1);
-        return (
-          <Link key={tag} to={`/tags/${tag}`}>
-            <span>{upperTag}</span>
-          </Link>
-        );
-      })}
-  </TagsContainer>
+   <TagsContainer>
+      {list &&
+         list.map(tag => {
+            const upperTag = tag.charAt(0).toUpperCase() + tag.slice(1);
+            return (
+               <Link key={tag} to={`/tags/${tag}`}>
+                  <span>{upperTag}</span>
+               </Link>
+            );
+         })}
+   </TagsContainer>
 );
 
 export default TagsBlock;
 
 TagsBlock.propTypes = {
-  list: PropTypes.array,
+   list: PropTypes.array,
 };
