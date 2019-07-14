@@ -6,11 +6,8 @@ date: "2018-09-20"
 title: "StArt"
 published: true
 tags: ['Research','Usability testing', 'Wireframing','User-centered design','Visual design']
+excerpt: 'Augmented reality app to interact with art while traveling.'
 ---
-
-Augmented reality app to interact with art while traveling.
-<!-- end -->
-
 #### insert mockup here
 
 # Situation

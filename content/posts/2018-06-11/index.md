@@ -6,11 +6,8 @@ date: "2018-07-28"
 title: "The Cookbook"
 published: true
 tags: ['User experience design', 'Visual design', 'Design system']
+excerpt: 'Updating a design system for the Cal Poly Corporation.'
 ---
-
-Updating a design system for the Cal Poly Corporation.
-<!-- end -->
-
 
 ![Mockup of finished pattern library](./images/cookbook-preview.jpg)
 

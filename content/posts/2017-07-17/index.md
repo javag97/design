@@ -6,10 +6,8 @@ date: "2017-07-17"
 title: "SLO DO CO to go"
 tags: ['Usability testing','Card sort', 'Persona', 'Survey', 'Business model canvas','Information architecture', 'Affinity mapping']
 published: true
+excerpt: 'Perfecting the donut consumption experience for busy people always on the go.'
 ---
-
-Perfecting the donut consumption experience for busy people always on the go.
-<!-- end -->
 
 ![problem slodoco](./images/slodoco-mockup.jpg)
 
