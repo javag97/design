@@ -8,11 +8,14 @@ published: true
 tags: ['Research','Usability testing', 'Wireframing','User-centered design','Visual design']
 ---
 
+Augmented reality app to interact with art while traveling.
+<!-- end -->
+
 #### insert mockup here
 
 # Situation
 
- For a Mobile UX Design course I was taking, I was tasked with designing a mobile application that involved an emerging technology. Our end product was an app to promote the celeration of culture and spirit of artistry. We achieved this by connecting travelers to local street art. 
+ For a Mobile UX Design course, I was tasked with designing a mobile application that involved an emerging technology. Our end product was an app to promote the celeration of culture and spirit of artistry. We achieved this by connecting travelers to local street art. 
 
 
 ## Roles
@@ -22,19 +25,16 @@ Javier Garcia – UX Designer
 [Anna Shambaugh](https://www.linkedin.com/in/anna-shambaugh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BDHyLxgxGQlKAmE3smEDQJw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=hEqIYOcPSP%2Bx23GMhJUXaQ%3D%3D) - UX Designer
 
 # Objectives
-
-
++ Decrease disconnect between tourism and local life
++ Encourage travelers to be more conscious of places they travel to
+  
 ## Problem
 
-![London, United Kingdom, Photo by Benjamin Davies](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
-
-![London, United Kingdom, Photo by Alfonso Cenname ](https://images.unsplash.com/photo-1469480367508-d9487f86f766?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
-
+![Photo of city from two different perspectives.](./images/london-perspectives.jpg)
 
 Various countries create torist traps for the name of tourism. Tourists can then begin to concentrate both foot traffic and spending within small areas. This can negatively affect the community and lead to a set of unintended consequences. We listed two goals that encompass of of which we were trying to accomplish.  
 
-+ Decrease disconnect between tourism and local life
-+ Encourage travelers to be more conscious of places they travel to
+
 
 ## Defining public art
 ![Images of what public art for the purposes of StArt](./images/definingart.jpg)
