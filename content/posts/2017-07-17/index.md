@@ -9,8 +9,11 @@ published: true
 excerpt: 'Perfecting the donut consumption experience for busy people always on the go.'
 ---
 
+<<<<<<< HEAD
 <!-- end -->
 
+=======
+>>>>>>> content-updates
 ![problem slodoco](./images/slodoco-mockup.jpg)
 
 # Summary
