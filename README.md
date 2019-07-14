@@ -1,5 +1,5 @@
 Special shout out to <a href="https://justinformentin.com/">Justin Formentin</a> for his Gatsby template that is the backbone of this site. 
-<h1> UX Design Portfolio of Javier Garcia </h1>
+<h1> Product Design Portfolio of Javier Garcia </h1>
 <p align="center">
   <a href="https://circleci.com/gh/justinformentin/gatsby-v2-tutorial-starter">
     <img
