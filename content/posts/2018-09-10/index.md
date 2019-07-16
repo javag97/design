@@ -79,14 +79,10 @@ We asked the following questions to five different individuals about their trave
 
 ![Wireframe](./images/wireframe.jpg)
 
-## Usability testing
-We used an [adapted sample script](https://www.sensible.com/downloads/test-script.pdf) to provide consistency between usability testing.  Four different individuals gave feedback to our wireframe. We asked them to complete three different tasks. 
+## Usability testing based on [sample script](https://www.sensible.com/downloads/test-script.pdf)
+We asked four different users to complete three different tasks. One of the three tasks was confusing to users. This was based on our misconception that users [ don't like to scroll](https://uxmyths.com/post/654047943/myth-people-dont-scroll). 
 
-From three usability tests, we could see that our first two tasks of our interface were easy to follow. Yet, our third task was confusing to participants. 
-
-When our participants looked for an item on a list, we expected them to understand pagination. Instead, their natural response was to [scroll and not sort](https://uxmyths.com/post/654047943/myth-people-dont-scroll). 
-
-![Usability Results](./images/usability-changes.jpg)
+![Usability Changes](./images/usability-changes.jpg)
 
 Or changes was to make this screen default to sort by date. Also, a sort button with a drop-down gives users control of how they want to sort. From testing our third task again, our users were able to finish the task.
 
