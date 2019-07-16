@@ -17,26 +17,31 @@ excerpt: "Augmented reality app to interact with art while traveling."
 
 ## Roles
 
+In this project, we collaborated in research and ideation. I took charge in interaction and visual design as I had more experience.
+
 Javier Garcia – UX Designer
 
 [Anna Shambaugh](https://www.linkedin.com/in/anna-shambaugh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BDHyLxgxGQlKAmE3smEDQJw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=hEqIYOcPSP%2Bx23GMhJUXaQ%3D%3D) - UX Designer
 
-# Objectives
-+ Decrease disconnect between tourism and local life
-+ Encourage travelers to be more conscious of places they travel to
+# Objective
+
   
-## Problem
+## Problem — Disconnect between tourism and local life
 
-![Photo of city from two different perspectives.](./images/london-perspectives.jpg)
+"Tourist traps" currently concentrate tourism foot traffic and spending within small areas. This can negatively affect the local community and lead to a set of unintended consequences. 
 
-Various countries create torist traps for the name of tourism. Tourists can then begin to concentrate both foot traffic and spending within small areas. This can negatively affect the community and lead to a set of unintended consequences. We listed two goals that encompass of of which we were trying to accomplish.  
+![Two photos of London side by side.](./images/london-perspectives.jpg)
 
+This image shows the city of London from two different points of view. Both of these images show how vastly different tourists envision London in comparison to locals. We want to show tourists the experience of living in cities that they visit. 
 
+## Goals
++ Decrease disconnect between tourism and local life
++ Encourage travelers to be environmentally and socially conscious during travel
 
-## Defining public art
+## Street art as a medium
 ![Images of what public art for the purposes of StArt](./images/definingart.jpg)
 
-From looking at various pieces of art, it was easy to find how art reflected the citizens within a community. Considering our goals, this direction warranted further exploration. 
+Art reflects the values of the people whom encompass that community. A potential solution to the problem is to make tourism feel more authentic by exploring street art.
 
 # Action
 
@@ -46,67 +51,33 @@ From looking at various pieces of art, it was easy to find how art reflected the
 
 We asked the following questions to five different individuals about their travels. We wanted to confirm that travelers often overlook destinations that locals congregate behind. 
 
-### General Findings.
+### General Findings
 
 + Spending too much time around tourist destinations can feel fake
 + Humans take tremendous pride in their community
 + Our participants claimed to want a mix of tourism destinations and non-tourist destinations
 
-## Jeremy — Persona 
+## “I’m missing out on the authentic culture of the places I travel.”
 
 ![Our fictional persona](./images/jeremy.jpg)
-
-### “I’m missing out on the authentic culture of the places I travel.”
 
 ### Jeremy's goals
 + Become more cultured by exploring new places
 + Meet new kinds of people 
 + Share his experience within his close friends
 
+## Desired Outcomes
 
-## Activity-centered Thinking
++ Minimze boredom while traveling
++ Increase number of "real" places visited
++ Keep track of the destinations traveled
 
-## Tasks
-
-+ You have a couple hours to kill before the event starts. Try to find the nearest artwork near you.
-+ You want to leave your mark and make sure that other users can see your creation. Sign your name in AR.
-+ You’ve been exploring for a couple hours now and you want to see a list of what art pieces you’ve seen. Try to find a mosaic that you visited on January 23rd.
-
-
-// jul 11 - edit below this then go back above
-
-### Scenario
-
-+ Wants to keep track of all the places he’s visited.
-
-
-
-1. Jeremy is in Phoenix, AZ for a photography gig over the weekend.
-2. He wants to experience the local culture but not spend any money. 
-3. Jeremy pulls out his phone and StArt lists local street art nearby.
-4. The map on his phone directs him to art a couple blocks away.
-5. Jeremy finds the cool mural of Muhammad Ali, a local resident, on the side of a shop.
-6. The app congratulates Jeremy for finding the mural. The app describes the history of the mural.
-7. Ali’s impact on the area fascinates Jeremy.
-8. Jeremy uses AR to sign his name. He wants to leave his mark without disrespecting the artist.
-9. Jeremy notices that the street he’s on has some other interesting displays and shops. Jeremy looks for other nearby art to kill more time.
-
-
-### Interaction framework
-Based on the scenario of Jeremy.
+### Initial Sketches
 ![Interaction Framework](./images/framework.jpg)
 
 ### Wireframes
 
 ![Wireframe](./images/wireframe.jpg)
-
-
-### Visual language suggestions
-Users spend most of their time on other applications. We can use other existing design patterns to guide our process. Material Design and Pokémon Go inspired the visual language. Material Design has a far reach that many users have come across. Pokemon Go is a similar domain of augmented reality. This process was about adapting what currently exists to StArt. 
-
-![Visual Suggestions with two different color schemes.](./images/visual-suggestions.jpg)
-
-# Results 
 
 ## Usability testing
 We used an [adapted sample script](https://www.sensible.com/downloads/test-script.pdf) to provide consistency between usability testing.  Four different individuals gave feedback to our wireframe. We asked them to complete three different tasks. 
@@ -118,6 +89,18 @@ When our participants looked for an item on a list, we expected them to understa
 ![Usability Results](./images/usability-changes.jpg)
 
 Or changes was to make this screen default to sort by date. Also, a sort button with a drop-down gives users control of how they want to sort. From testing our third task again, our users were able to finish the task.
+
+
+### Visual language suggestions
+Users spend most of their time on other applications. We can use other existing design patterns to guide our process. Material Design and Pokémon Go inspired the visual language. Material Design has a far reach that many users have come across. Pokemon Go is a similar domain of augmented reality. This process was about adapting what currently exists to StArt. 
+
+![Visual Suggestions with two different color schemes.](./images/visual-suggestions.jpg)
+
+# Results 
+
+
+
+
 
 ## First round of changes
 From both iterations, we wanted to be more expressive as the app must resonate with people who are fans of art. This can be difficult when trying to also follow common design patterns elsewhere. 
