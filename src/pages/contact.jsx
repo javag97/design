@@ -37,23 +37,26 @@ const Contact = center => (
                <p>
                   He/him/his. Designer, programmer, pop culture and technology
                   nerd, matcha enthusiast, lifelong learner. Seeking full-time
-                  opportunities as a Product Designer that enpower me to give
+                  opportunities as a Product Designer that empower me to give
                   back.
                </p>
                <h3>Contact Me </h3>
-               <p>
-                  <a href="https://www.linkedin.com/in/javigme" target="_blank">
+               <p>Stay updated on what I'm doing on {' '}
+                   <a href="https://www.linkedin.com/in/javigme" target="_blank">
                      LinkedIn
                   </a>
-                  ,{' '}
+                  {' '} and {' '}
                   <a href="https:///github.com/javag97" target="_blank">
                      Github
-                  </a>
-                  ,{' '}
+                  </a>.<br/>
+                  For any inquiries, feel free to email me at
+                  {' '}
                   <a href="mailto:javier.garcia549@gmail.com">
                      javier.garcia549@gmail.com
                   </a>
+                  .
                </p>
+               <iframe src="https://open.spotify.com/embed/playlist/61KudAxwNRzpWrg839LdgN" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             </div>
          </Text>
       </TwoColumn>
