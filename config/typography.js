@@ -16,8 +16,18 @@ const typography = new Typography({
     'ff-meta-serif-web-pro',
     'serif',
   ],
-  bodyGray: 20,
+  overrideStyles: () => ({
+    blockquote: {
+      marginLeft: '40px',
+      marginRight: '40px',
+      marginTop: '1em',
+      marginBottom: '1em',
+    },
+  }),
+  headerGray: 20,
   headerWeight: 700,
 });
 
+
+typography.overrideTheme
 export default typography;

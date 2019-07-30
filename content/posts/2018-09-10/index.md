@@ -17,28 +17,27 @@ excerpt: "Augmented reality app to interact with art while traveling."
 
 ## Roles
 
-In this project, we collaborated in research and ideation. I took charge in interaction and visual design as I had more experience.
-
-Javier Garcia – UX Designer
-
-[Anna Shambaugh](https://www.linkedin.com/in/anna-shambaugh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BDHyLxgxGQlKAmE3smEDQJw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=hEqIYOcPSP%2Bx23GMhJUXaQ%3D%3D) - UX Designer
+In this project, I  collaborated with [Anna Shambaugh](https://www.linkedin.com/in/anna-shambaugh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BDHyLxgxGQlKAmE3smEDQJw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=hEqIYOcPSP%2Bx23GMhJUXaQ%3D%3D) in research and ideation. I took charge in interaction and visual design as I had more experience.
 
 # Objective
+![Two photos of London side by side.](./images/london-perspectives.jpg)
 
-  
-## Problem — Disconnect between tourism and local life
+Most tourists characterize London with its iconic cityspace. While that image is deeply ingrained, it is not very representative of what happens within the city. To various locals, their perception of London is shaped by what they see on their daily commute. While both viewpoints are valid, it is crucioal to acknowledge how these viewpoints often conflict with each other.
+
+
+
+## Problem
+![Venn Diagram showing the disconnect between tourists and locals](./images/problem.jpg)
 
 "Tourist traps" currently concentrate tourism foot traffic and spending within small areas. This can negatively affect the local community and lead to a set of unintended consequences. 
 
-![Two photos of London side by side.](./images/london-perspectives.jpg)
 
-This image shows the city of London from two different points of view. Both of these images show how vastly different tourists envision London in comparison to locals. We want to show tourists the experience of living in cities that they visit. 
 
 ## Goals
 + Decrease disconnect between tourism and local life
 + Encourage travelers to be environmentally and socially conscious during travel
 
-## Street art as a medium
+## Street art as a medium   
 ![Images of what public art for the purposes of StArt](./images/definingart.jpg)
 
 Art reflects the values of the people whom encompass that community. A potential solution to the problem is to make tourism feel more authentic by exploring street art.
@@ -79,7 +78,7 @@ We asked the following questions to five different individuals about their trave
 
 ![Wireframe](./images/wireframe.jpg)
 
-## Usability testing based on [sample script](https://www.sensible.com/downloads/test-script.pdf)
+## Usability testing changes based on [sample script](https://www.sensible.com/downloads/test-script.pdf)
 We asked four different users to complete three different tasks. One of the three tasks was confusing to users. This was based on our misconception that users [ don't like to scroll](https://uxmyths.com/post/654047943/myth-people-dont-scroll). 
 
 ![Usability Changes](./images/usability-changes.jpg)
@@ -124,7 +123,6 @@ An augmented reality mobile app to learn more about culture and art while travel
 
 Our app's vision is to promote the celebration of culture and spirit of artistry. We want to connect travelers to local art in an effort to make our world more aware of other's culture.
 
-![Venn Diagram showing the disconnect between tourists and locals](./images/problem.jpg)
 
 Any laymen person would be able to tell you in an instant where the subject of the first photograph is. A local from London might tell you that they pass by the second photograph on their morning commute. London is one of the most visited locations in the world with [thirty million annual visitors](http://www.uncsbrp.org/tourism.htm). Yet, only a handful of people could tell you how this mural came to be. 
 

@@ -62,7 +62,7 @@ const headroom = css`
          }
       }
       padding-top: 0.75rem;
-      padding-bottom: 0.75rem;
+      padding-bottom: 1.5rem;
       svg {
          height: 2.5rem;
          g {

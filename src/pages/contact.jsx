@@ -32,7 +32,7 @@ const Contact = center => (
             <div>
                <h1>
                   Current gig: UI/UX Intern @{' '}
-                  <a href="https://www.jupyter.org/">Jupyter</a>
+                  <a href="https://www.jupyter.org/" target="_blank">Jupyter</a>
                </h1>
                <p>
                   He/him/his. Designer, programmer, pop culture and technology
