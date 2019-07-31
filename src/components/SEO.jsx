@@ -94,11 +94,18 @@ const SEO = ({ title, desc, banner, pathname, article }) => (
                </script>
                {/* OpenGraph  */}
                <meta property="og:url" content={seo.url} />
-               <meta property="og:type" content={article ? 'article' : null} />
+               <meta property="og:type" content={article ? 'article' : 'website'} />
                <meta property="og:title" content={seo.title} />
                <meta property="og:description" content={seo.description} />
                <meta property="og:image" content={seo.image} />
-            </Helmet>
+
+               {/* Twitter Card */}
+               <meta name="twitter:card" content="summary_large_image" />
+               <meta name="twitter:creator" content={twitter} />
+               <meta name="twitter:title" content={seo.title} />
+               <meta name="twitter:description" content={seo.description} />
+               <meta name="twitter:image" content={seo.image} />              
+               </Helmet>
          );
       }}
    />
