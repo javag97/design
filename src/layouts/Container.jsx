@@ -4,9 +4,9 @@ import PropTypes from 'prop-types';
 
 const Wrapper = styled.section`
    text-align: ${props => (props.center ? 'center' : '')};
-   margin: 0% 25% 0% 35%;
+   margin: auto;
    padding: 3rem 0.5rem;
-   width: 53%;
+   width: 40%;
    max-width: 1000px;
    @media (max-width: ${props => props.theme.breakpoints.l}) {
       width: 60%;
