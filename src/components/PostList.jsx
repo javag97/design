@@ -106,7 +106,7 @@ const Title = styled.h2`
 const PostList = ({ cover, path, title, excerpt }) => (
    <Wrapper>
       <Image>
-         <Img fluid={cover} />
+         <Img fluid={cover} alt="Project" />
       </Image>
       <StyledLink to={path}>
          <Info>

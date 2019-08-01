@@ -20,6 +20,7 @@ const SEO = ({ title, desc, banner, pathname, article }) => (
                pathPrefix,
                defaultDescription,
                defaultBanner,
+               twitter,
             },
          },
       }) => {
@@ -146,6 +147,7 @@ const query = graphql`
             pathPrefix
             defaultDescription: description
             defaultBanner: banner
+            twitter
          }
       }
    }
