@@ -6,17 +6,16 @@ date: "2018-09-20"
 title: "StArt"
 published: true
 tags: ['Research','Usability testing', 'Wireframing','User-centered design','Visual design']
-excerpt: "Augmented reality app to interact with art while traveling."
+excerpt: "An augmented reality app to interact with art while traveling."
 ---
-#### insert mockup here
+![hero image](./images/mockup-flow-1.jpg)
+![hero image](./images/mockup-flow-2.jpg)
 
 # Situation
-
- For a Mobile UX Design course, I was tasked with designing a mobile application that involved an emerging technology. Our end product was an app to promote the celeration of culture and spirit of artistry. We achieved this by connecting travelers to local street art. 
+For a Mobile UX Design course, I was tasked with designing a mobile application that involved an emerging technology. Our end product was an app to promote the celeration of culture and spirit of artistry. We achieved this by connecting travelers to local street art. 
 
 
 ## Roles
-
 In this project, I  collaborated with [Anna Shambaugh](https://www.linkedin.com/in/anna-shambaugh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BDHyLxgxGQlKAmE3smEDQJw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=hEqIYOcPSP%2Bx23GMhJUXaQ%3D%3D) in research and ideation. I took charge in interaction and visual design as I had more experience.
 
 # Objective
@@ -24,13 +23,10 @@ In this project, I  collaborated with [Anna Shambaugh](https://www.linkedin.com/
 
 Most tourists characterize London with its iconic cityspace. While that image is deeply ingrained, it is not very representative of what happens within the city. To various locals, their perception of London is shaped by what they see on their daily commute. While both viewpoints are valid, it is crucioal to acknowledge how these viewpoints often conflict with each other.
 
-
-
 ## Problem
 ![Venn Diagram showing the disconnect between tourists and locals](./images/problem.jpg)
 
 "Tourist traps" currently concentrate tourism foot traffic and spending within small areas. This can negatively affect the local community and lead to a set of unintended consequences. 
-
 
 
 ## Goals
@@ -48,15 +44,16 @@ Art reflects the values of the people whom encompass that community. A potential
 
 *Note: To follow non-disclosure agreement, I have omitted and obfuscated confidential information.*
 
-We asked the following questions to five different individuals about their travels. We wanted to confirm that travelers often overlook destinations that locals congregate behind. 
+I asked the following questions to five different individuals about their travels. We wanted to confirm that travelers often overlook destinations that locals congregate behind. 
 
 ### General Findings
 
 + Spending too much time around tourist destinations can feel fake
-+ Humans take tremendous pride in their community
-+ Our participants claimed to want a mix of tourism destinations and non-tourist destinations
++ Participants take tremendous pride in their community
++ Participants claimed to want a mix of tourism destinations and non-tourist destinations
++ Partipicants made comments about expanding idea to travel app or to include museums
 
-## “I’m missing out on the authentic culture of the places I travel.”
+## “I’m missing out on the authentic culture of the places I travel.” —Jeremy
 
 ![Our fictional persona](./images/jeremy.jpg)
 
@@ -74,11 +71,11 @@ We asked the following questions to five different individuals about their trave
 ### Initial Sketches
 ![Interaction Framework](./images/framework.jpg)
 
-### Wireframes
+### Wireframe
 
 ![Wireframe](./images/wireframe.jpg)
 
-## Usability testing changes based on [sample script](https://www.sensible.com/downloads/test-script.pdf)
+## Usability testing
 We asked four different users to complete three different tasks. One of the three tasks was confusing to users. This was based on our misconception that users [ don't like to scroll](https://uxmyths.com/post/654047943/myth-people-dont-scroll). 
 
 ![Usability Changes](./images/usability-changes.jpg)
@@ -93,10 +90,6 @@ Users spend most of their time on other applications. We can use other existing 
 
 # Results 
 
-
-
-
-
 ## First round of changes
 From both iterations, we wanted to be more expressive as the app must resonate with people who are fans of art. This can be difficult when trying to also follow common design patterns elsewhere. 
 
@@ -108,36 +101,9 @@ From both iterations, we wanted to be more expressive as the app must resonate w
 In future versions, users should be able to see other user’s photos and tags within AR. It would also be important to have artists being more involved with adding their art to the app.
 
 ## Ethical considerations
-These are things that we need to keep in mind when pursuing the idea further. The artist may feel that our app violates their usage rights as the creator of an image. An artist should have a say whether their work gets displayed on the app. We also have to consider tourism in areas that don't want tourism. Finally, we should consider monitoring inappropriate art without trying to censor different perspectives. It is also important to consider who gets to say what is inappropriate. 
+1. Artist may feel that our app violates their usage rights as the creator of an image. An artist should have a say whether their work gets displayed on the app. 
+2. We have to consider what would happen to coomunities that don't want people in their space. 
+3. How would we go about monitoring ”inappropriate” art without trying to censor different perspectives? This is an important question that needs lots of consideration.
 
-## ARKit and technical limitations
-A challenge is finding a way for others to see tags made on different devices. Currently, Apple's ARKit can support the app as designed. Yet, such a technology is still emerging and needs to develop further across other devices. 
-
-
-## What I learned
-
-
-An augmented reality mobile app to learn more about culture and art while traveling.
-
-<!-- end -->
-
-Our app's vision is to promote the celebration of culture and spirit of artistry. We want to connect travelers to local art in an effort to make our world more aware of other's culture.
-
-
-Any laymen person would be able to tell you in an instant where the subject of the first photograph is. A local from London might tell you that they pass by the second photograph on their morning commute. London is one of the most visited locations in the world with [thirty million annual visitors](http://www.uncsbrp.org/tourism.htm). Yet, only a handful of people could tell you how this mural came to be. 
-
-
-# Audience
-
-Many comments made was to expand the idea to a travel app that tourists can use when traveling. But, there are other competitors currently successful in that market. Our decision was to limit to scope as we wanted the app to be as focused on a user as possible.
-
-Such individuals find different cultures exciting. They travel often and are looking at experiencing communities different from their own. These individuals can find themselves between large metropolitan areas and small towns.
-
-
-## free to play
-
-
-When talking to different people, we faced a challenge of what to include when making the app. A suggestion involved expanding public art to art found in museums.
-
-We decided to keep the app in the direction of public art. By keeping the demographic specific, this allows for flexibility to not compromise usability. It was also important for art to be accessible without payment. From our feedback, we thought art in the public better reflects ideas of an area more so than art in a museum.
-
+## Technical limitations
+How can we people be able to interact with doodles made by others? At the time of the project, Apple's ARKit can support the app as designed, but Android devices need futher development.

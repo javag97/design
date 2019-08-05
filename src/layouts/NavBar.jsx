@@ -2,13 +2,15 @@ import React from 'react';
 import { Link } from 'gatsby';
 import styled from 'react-emotion';
 import Headroom from 'react-headroom';
-import logo from '../../static/logo/header-logo.svg';
 
 const StyledLink = styled(Link)`
    display: flex;
    align-items: center;
    font-weight: 700;
    align-items: center;
+   color:white;
+   text-transform: uppercase;
+   letter-spacing: 0.15em;
 `;
 
 const Nav = styled.nav`
@@ -40,7 +42,7 @@ const divContainer = {
 const NavBar = () => (
    <Headroom calcHeightOnResize disableInlineStyles>
       <StyledLink to="/" style={divContainer}>
-         <img src={logo} alt="Javier's Logo" />
+         <h1>Javier Garcia</h1>
       </StyledLink>
       <Nav>
          <Link to="/">Portfolio</Link>
