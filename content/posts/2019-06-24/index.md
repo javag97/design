@@ -33,7 +33,7 @@ Many users tend to prefer Classic Notebook compared to JupyterLab. Common compla
 # Action
 
 ## Competitive Analysis
-From looking at the market of roughly a dozen different interfaces, we saw the following trends
+From looking at the market of roughly a dozen different interfaces, we saw the following trends.
 
 
 ![Competitor Kaggle's use of Inline editing.](./images/competitive-kaggle.jpg)
@@ -48,6 +48,14 @@ From looking at the market of roughly a dozen different interfaces, we saw the f
 ## Semi-structured interviews
 
 *Note: To follow non-disclosure agreement, I have omitted and obfuscated confidential information.*
+
+We talked to and coded four interviews of various users familiar with the Jupyter ecosystem
+
+### Findings
++ Expected to use JL in work, school, etc.
++ Unaware that JL and NB are different
++ View Jupyter as Python-only software
++ Use JL as a tool it's not explicitly designed for (commonly compared to an IDE)
 
 ## Jobs To Be Done
 
