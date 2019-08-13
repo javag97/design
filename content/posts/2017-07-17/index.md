@@ -28,9 +28,9 @@ I was involved in designing an impactful mobile app experience for SLO Donut Co,
 
 # Problem
 
-During peak hours, it is not uncommon to see people waiting in lines out the door for as long as an hour just to order a single donut. Because of this demand, popular donuts often sell out quickly. To the consumer, it is a waste of effort and time. In this interaction, there is both a tangible and intangible cost to their business. 
+During peak times, it is not uncommon to see people waiting in lines out the door to order a single donut. To the consumer, it is a waste of effort and time to wait for donuts that may or may not sell out. In this interaction, there is both a tangible and intangible cost to their business. 
 
-![problem slodoco](./images/problem.jpg)
+![problem slodoco](./images/slodoco-problem.jpg)
 
 # About the business
 
@@ -40,9 +40,8 @@ SLODOCO brings in about $200,000 of revenue every month. It comes to no surprise
 
 
 # Summary of business model canvas
-+ SLODOCO makes the most amount of money from tourists, locals, and college students
++ SLODOCO gets their sales from tourists, locals, and college students
 + SLODOCO looks to make the entire experience of buying a donut as effortless as possible
-+ Socializing with others improves the experience
 
 # Research 
 
@@ -66,10 +65,10 @@ Based on where SLODOCO makes the most revenue, it would make the most sense to i
 Before asking participants questions, we had them do a 3 minute priming activity to write or draw anything regarding donuts. After they finish, they asked about what they created and for what reasons.
 
 From talking to two participants, we affirmed our beliefs:
-+ SLODOCO’s target demographic does not like to spend time waiting in line
-+ This demographic is typically health-conscious and community-oriented
++ No one likes waiting in lines. 
++ The target demographic is typically health-conscious and community-oriented
 + Customers of SLODOCO don’t regularly eat donuts
-+ Enjoy the social experience that comes with a brand. 
++ Customers enjoy the social experience that comes with buying a donut 
 
 ## Survey
 

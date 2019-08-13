@@ -63,7 +63,6 @@ I asked the following questions to five different individuals about their travel
 + Share his experience within his close friends
 
 ## Desired Outcomes
-
 + Minimze boredom while traveling
 + Increase number of "real" places visited
 + Keep track of the destinations traveled
