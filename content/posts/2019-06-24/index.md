@@ -35,15 +35,11 @@ Many users tend to prefer Classic Notebook compared to JupyterLab. Common compla
 ## Competitive Analysis
 From looking at the market of roughly a dozen different interfaces, we saw the following trends.
 
-
 ![Competitor Kaggle's use of Inline editing.](./images/competitive-kaggle.jpg)
 
 ![Competitor Authorea's use of figure output.](./images/competitive-authorea.jpg)
 
 ![Competitor Collaboratory's use of collapsable navigation.](./images/competitive-collaboratory.jpg)
-
-
-
 
 ## Semi-structured interviews
 

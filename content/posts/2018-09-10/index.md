@@ -48,9 +48,9 @@ I asked the following questions to five different individuals about their travel
 
 ### General Findings
 
-+ Spending too much time around tourist destinations can feel fake
++ Participants agree that spending too much time around tourist destinations can feel fake
 + Participants take tremendous pride in their community
-+ Participants claimed to want a mix of tourism destinations and non-tourist destinations
++ Participants claim to want a mix of tourism and non-tourist destinations
 + Partipicants made comments about expanding idea to travel app or to include museums
 
 ## “I’m missing out on the authentic culture of the places I travel.” —Jeremy
@@ -84,6 +84,14 @@ Or changes was to make this screen default to sort by date. Also, a sort button 
 
 
 ### Visual language suggestions
+
+Direction 1
+![Proposal 1.](./images/visual-language-1.jpg)
+
+Direction 2
+![Proposal 2.](./images/visual-language-2.jpg)
+
+
 Users spend most of their time on other applications. We can use other existing design patterns to guide our process. Material Design and Pokémon Go inspired the visual language. Material Design has a far reach that many users have come across. Pokemon Go is a similar domain of augmented reality. This process was about adapting what currently exists to StArt. 
 
 ![Visual Suggestions with two different color schemes.](./images/visual-suggestions.jpg)

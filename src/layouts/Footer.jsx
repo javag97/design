@@ -50,8 +50,8 @@ const Footer = () => (
                   <span>
                      <Link key={node.id} to={node.frontmatter.path}>
                         {node.frontmatter.title}
-                     </Link>{' '}
-                     -{' '}
+                     </Link>{String.fromCharCode(8195)}
+                     
                   </span>
                ))}
             </Text>
