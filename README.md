@@ -43,6 +43,8 @@ Special shout out to <a href="https://justinformentin.com/">Justin Formentin</a>
       alt="deploys by netlify"
     />
   </a>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/a28ac54e-bd74-4088-b3e4-cef8f109da0d/deploy-status)](https://app.netlify.com/sites/javiergarcia/deploys)
+
 </p>
 
 <p align="center">
