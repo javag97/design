@@ -6,7 +6,7 @@ date: "2017-07-17"
 title: "SLO DO CO to go"
 tags: ['Usability testing','Card sort', 'Persona', 'Survey', 'Business model canvas','Information architecture', 'Affinity mapping']
 published: true
-excerpt: 'Perfecting the donut consumption experience for busy people always on the go.'
+excerpt: 'Perfecting donut consumption for busy people on the go.'
 ---
 
 ![problem slodoco](./images/slodoco-mockup.jpg)
@@ -47,7 +47,7 @@ Before starting the design process, it is important to realize the interactions 
 
 *Note: To comply with non-disclosure, I have omitted and obfuscated confidential information.*
 
-In attempting to discover more about our users, our research stage took the form of assessing usability of current site, interviewing users, creating a survey, and having users participate in a card sort.
+In attempting to discover more about our users, our research stage took the form of assessing the usability of the current site, interviewing users, creating a survey, and having users participate in a card sort.
 
 
 ## Usability testing current side
@@ -64,20 +64,19 @@ I started with a small priming activity regarding donuts. Then, I asked them que
 
 
 ### Summary of Findings
-+ No one likes waiting in lines. 
++ No one likes waiting in lines
 + The target demographic is typically health-conscious and community-oriented
 + Customers of SLODOCO don’t regularly eat donuts
 + Customers enjoy the social experience that comes with buying a donut 
 
 ## Survey
-
-When I interviewed the manager of SLODOCO for our Business Canvas Model, they explained how focusing on tourists would be beneficial for our research as it would gather many different perspectives. SLODOCO also is aiming to expand their customer base, and tourists are a perfect group to spread the word about the business. 
+When I interviewed the manager of SLODOCO for our Business Canvas Model, they explained how focusing on tourists would be beneficial for our research as it would gather many different perspectives. SLODOCO also is aiming to expand its customer base, and tourists are a perfect group to spread the word about the business. 
 
 Because of these reasons, I felt it would be effective to focus on tourists for this survey. However, I made sure to write the survey questions in such a way that the survey could be taken by all focus groups in the future.
 
 ![Survey Results](./images/survey.jpg)
 
-The survey proved to give us much insight about customer behaviors overall. The survey answers allude to the fact that it would be beneficial to create an app or mobile game for SLODOCO.
+The survey proved to give us much insight into customer behaviors overall. The survey answers allude to the fact that it would be beneficial to create an app or mobile game for SLODOCO.
 
 ## Card Sort
 
@@ -91,19 +90,19 @@ In terms of responses, I was able to figure out which donuts are preferred durin
 
 Based on the research, I tried to understand more closely how the old site information was being organized. In this exercise, I realized the hierarchy does not always make sense to the user. 
 
-Most users according to our personas aren't looking to apply to work there or are looking at ordering custom donuts. While deals do logically make sense in its current place, our users would prefer that to be in its own section because of the frequency that users are looking for deals. 
+Most users according to our personas aren't looking to apply to work there or are looking at ordering custom donuts. While deals do logically make sense in its current place, our users would prefer that to be in its section because of the frequency that users are looking for deals. 
 
 ![Information Architecture](./images/information-arch.jpg)
 
 # Affinity Map
 
-We had a hard time understanding how to group items together in the information architecture, pointing to the lack of organized structure on the site. We did such because of trying to organize our own ideas and finding new ways to accomplish structure. 
+We had a hard time understanding how to group items in the information architecture, pointing to the lack of organized structure on the site. We did such because of trying to organize our ideas and finding new ways to accomplish structure. 
 
 ![Affinity  Map](./images/affinity-map.jpg)
 
 # Personas
 
-From discovering various traits found in typical users, we decided that using multiple personas would be a valuable trade off when it comes to the flexibility of the app and site. 
+From discovering various traits found in typical users, we decided that using multiple personas would be a valuable trade-off when it comes to the flexibility of the app and site. 
 
 
 ![Persona 1](./images/persona.jpg)
@@ -129,7 +128,7 @@ Based on the personas we created, we used that information to guide goals that u
 + Jeff Campbell is working in architecture studio on a late weeknight and he is starting to get a craving for something sweet.
 + Jeff is craving SLODOCO as it is one of his guilty pleasures, but is unsure if his favorite donut is in stock. 
 + Jeff opens the SLODOOCO app, realizes that SLODOCO is all out.
-+ Jeff is able to see that a new batch will be ready soon.
++ Jeff can see that a new batch will be ready soon.
 + Jeff receives a notification that the donuts are ready
 + Jeff heads to the shop, chats with the cashier, and goes back to continue working on his school project.
 
@@ -151,7 +150,7 @@ This prototype was made in Balsamiq to test some tasks that would be performed b
 
 ![Prototype](./images/usability-results.jpg)
 
-## Most important changes for next iteration
+## Most important changes for the next iteration
 
 + Consider the use of deals compared to coupons
 + Allow users to tap on entire boxes rather than just the button
@@ -164,10 +163,7 @@ Based on the colors from within the store and their current brand that they have
 
 ![Visual Language](./images/visual-language.jpg)
 
-# Things learned
-+ It is easy to invalidate research if conducted poorly
+# Lessons learned
++ It is easy to invalidate bad research
 + Research can change over time to better reflect users
 + Design for user's goals, not tasks
-
-
-
