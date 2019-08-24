@@ -99,8 +99,6 @@ From both iterations, we wanted to be more expressive as the app must resonate w
 
 ![Final Product](./images/final.jpg)
 
-## Decided Language
-
 # Aftermath
 
 ## Future iterations
