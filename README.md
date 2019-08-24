@@ -1,57 +1,9 @@
-Special shout out to <a href="https://justinformentin.com/">Justin Formentin</a> for his Gatsby template that is the backbone of this site. 
-<h1> Product Design Portfolio of Javier Garcia </h1>
-<p align="center">
-  <a href="https://circleci.com/gh/justinformentin/gatsby-v2-tutorial-starter">
-    <img
-      src="https://circleci.com/gh/justinformentin/gatsby-v2-tutorial-starter.svg?style=svg"
-      alt="CircleCI"
-    />
-  </a>
-  <a href="https://codeclimate.com/github/justinformentin/gatsby-v2-tutorial-starter">
-    <img
-      src="https://codeclimate.com/github/justinformentin/gatsby-v2-tutorial-starter/badges/gpa.svg"
-      alt="Maintainability"
-    />
-  </a>
-  <a href="https://codeclimate.com/github/justinformentin/gatsby-v2-tutorial-starter">
-    <img
-      src="https://codeclimate.com/github/justinformentin/gatsby-v2-tutorial-starter/badges/issue_count.svg"
-      alt="Issues"
-    />
-  </a>
-  <a href="https://www.codacy.com/app/justinformentin/gatsby-v2-tutorial-starter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=justinformentin/gatsby-v2-tutorial-starter&amp;utm_campaign=Badge_Grade">
-    <img
-      src="https://api.codacy.com/project/badge/Grade/c910ab2b18a24dde80cfc05b73c908aa"
-      alt="Code Quality"
-    />
-  </a>
-  <a href="https://david-dm.org/justinformentin/gatsby-v2-tutorial-starter">
-    <img
-      src="https://img.shields.io/david/justinformentin/gatsby-v2-tutorial-starter.svg"
-      alt="Dependencies"
-    />
-  </a>
-  <a href="https://github.com/prettier/prettier">
-    <img
-      src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg"
-      alt="styled with prettier"
-    />
-  </a>
-  <a href="https://www.netlify.com">
-    <img
-      src="https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg"
-      alt="deploys by netlify"
-    />
-  </a>
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/a28ac54e-bd74-4088-b3e4-cef8f109da0d/deploy-status)](https://app.netlify.com/sites/javiergarcia/deploys)
 
-</p>
+# Product Design Portfolio of Javier Garcia
 
-<p align="center">
-  <strong>
-    Read the full step by step guide: <a href="https://justinformentin.com/build-gatsby-site-full-tutorial">Guide to Build a Gatsby Site with Perfect Pagespeed Scores</a></a>.
-  </strong>
-</p>
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a28ac54e-bd74-4088-b3e4-cef8f109da0d/deploy-status)](https://app.netlify.com/sites/javiergarcia/deploys)
 
 ## Features
 
@@ -126,3 +78,4 @@ npm format
 ├── gatsby-config.js # Plugin loading and configuration
 └── gatsby-node.js # Generate posts/tags and modify webpack
 ```
+Special shout out to <a href="https://justinformentin.com/">Justin Formentin</a> for his Gatsby template that is the backbone of this site. 
