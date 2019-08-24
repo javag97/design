@@ -62,7 +62,6 @@ Common Observations Across Two Different Usability Assessments:
 ## Interviewing Users
 I started with a small priming activity regarding donuts. Then, I asked them questions regarding the consumption of donuts. 
 
-
 ### Summary of Findings
 + No one likes waiting in lines
 + The target demographic is typically health-conscious and community-oriented

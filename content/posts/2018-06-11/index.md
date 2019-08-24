@@ -50,10 +50,8 @@ I worked on designing and developing a static page that would show if the dining
  
  ![Mockup of finished pattern library](./images/server-error-mockup.jpg)
 
-
 ## Form submit micro-interaction
 In looking to extend the work within forms, we wanted to explore potential interactions when submitting any form across the dining site. The inspiration behind this was a [dribble confirm button animation](https://dribbble.com/shots/6538291-Confirm-button-animation).
 
 # Moving Forward
-
-Under construction...
+In retrospect, choosing to move to Astrum was a good, yet temporary solution to the problem we set out to solve. In an ideal world, we would want such a library of components that affords designers wanting to design with consistency. 
