@@ -1,7 +1,7 @@
 ---
 path: "/slodocotogo"
 cover: "./slodoco.jpg"
-slug: "post-three"
+slug: "slodoco"
 date: "2017-07-17"
 title: "SLO DO CO to go"
 tags: ['Usability testing','Card sort', 'Persona', 'Survey', 'Business model canvas','Information architecture', 'Affinity mapping']
