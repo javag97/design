@@ -1,7 +1,7 @@
 ---
 path: "/calpolycorporation"
 cover: "./thecookbook.jpg"
-slug: "post-two"
+slug: "Cal Poly Corporation"
 date: "2018-07-28"
 title: "Cal Poly Corporation"
 published: true
