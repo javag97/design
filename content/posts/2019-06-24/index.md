@@ -6,7 +6,7 @@ date: "2019-06-24"
 title: "Jupyter"
 published: true
 tags: ['User experience design', 'Visual design', 'Jobs To Be Done']
-excerpt: 'How to build a Jupyter front-end from scratch.'
+excerpt: 'Building an atomic Jupyter frontend from scratch'
 ---
 
 # Situation

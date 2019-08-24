@@ -1,9 +1,9 @@
 ---
-path: "/cookbook"
+path: "/calpolycorporation"
 cover: "./thecookbook.jpg"
 slug: "post-two"
 date: "2018-07-28"
-title: "The Cookbook"
+title: "Cal Poly Corporation"
 published: true
 tags: ['User experience design', 'Visual design', 'Design system']
 excerpt: "Developing consistency across web components."
