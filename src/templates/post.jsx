@@ -95,7 +95,7 @@ export const query = graphql`
                         opacity: 60
                      }
                   ) {
-                     ...GatsbyImageSharpFluid_withWebp
+                     ...GatsbyImageSharpFluid
                   }
                   resize(width: 1200, quality: 90) {
                      src
