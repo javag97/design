@@ -77,8 +77,8 @@ Post.propTypes = {
 };
 
 export const query = graphql`
-   query($pathSlug: String!) {
-      markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
+   query {
+      markdownRemark {
          html
          frontmatter {
             date
