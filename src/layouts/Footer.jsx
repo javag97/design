@@ -47,16 +47,16 @@ const Footer = () => (
          <Wrapper>
             <Text>
                {data.allMarkdownRemark.edges.map(({ node }) => (
-                  <span>
                      <Link key={node.id} to={node.frontmatter.path}>
                         {node.frontmatter.title}
-                     </Link>{String.fromCharCode(8195)}
+                        {String.fromCharCode(8195)}
+                     </Link>
                      
-                  </span>
                ))}
             </Text>
          </Wrapper>
       )}
+      key="footer"
    />
 );
 export default Footer;

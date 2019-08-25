@@ -67,7 +67,7 @@ const Contact = center => (
                   </li>   
                </ul>
                <h4>In an alternate universe, I produced these sick tracks.</h4>
-               <iframe src="https://open.spotify.com/embed/playlist/61KudAxwNRzpWrg839LdgN" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+               <iframe src="https://open.spotify.com/embed/playlist/61KudAxwNRzpWrg839LdgN" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             </div>
          </Text>
       </TwoColumn>
