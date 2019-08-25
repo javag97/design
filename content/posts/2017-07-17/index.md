@@ -34,13 +34,13 @@ During peak times, it is not uncommon to see people waiting in lines out the doo
 
 # About the business
 
-Before starting the design process, it is important to realize the interactions between a business and its customers.
+SLODOCO brings in about $200,000 of revenue every month. It comes to no surprise that this business knows how to attract people and has built a very successful business because of that. Before starting the design process, it is important to realize the interactions between a business and its customers. Without this, we are not designing with the users in mind.
 
 ![Business Model Canvas of SLO DO CO](./images/bmc.jpg)
 
 
 # Summary of business model canvas
-+ SLODOCO get their sales from tourists, locals, and college students
++ SLODOCO gets their sales from tourists, locals, and college students
 + SLODOCO looks to make the entire experience of buying a donut as effortless as possible
 
 # Research 
@@ -60,10 +60,11 @@ Common Observations Across Two Different Usability Assessments:
 + Users didn't know that custom orders were possible
 
 ## Interviewing Users
-I started with a small priming activity regarding donuts. Then, I asked them questions regarding the consumption of donuts. 
+Based on where SLODOCO makes the most revenue, it would make the most sense to interview someone from every customer segment. In order to get data that is representative of the population, qualitative data will be collected at different times throughout the day. 
 
+Before asking participants questions, we had them do a 3 minute priming activity to write or draw anything regarding donuts. After they finish, they asked about what they created and for what reasons.
 
-### Summary of Findings
+From talking to two participants, we affirmed our beliefs:
 + No one likes waiting in lines. 
 + The target demographic is typically health-conscious and community-oriented
 + Customers of SLODOCO don’t regularly eat donuts
@@ -71,9 +72,10 @@ I started with a small priming activity regarding donuts. Then, I asked them que
 
 ## Survey
 
-When I interviewed the manager of SLODOCO for our Business Canvas Model, they explained how focusing on tourists would be beneficial for our research as it would gather many different perspectives. SLODOCO also is aiming to expand their customer base, and tourists are a perfect group to spread the word about the business. 
+When we interviewed the manager of SLODOCO for our Business Canvas Model, they explained how focusing on tourists would
+be beneficial for our research as it would gather many different perspectives. SLODOCO also is aiming to expand their customer base, and tourists are a perfect group to spread the word about the business. 
 
-Because of these reasons, I felt it would be effective to focus on tourists for this survey. However, I made sure to write the survey questions in such a way that the survey could be taken by all focus groups in the future.
+Because of these reasons, we felt it would be effective to focus on tourists for this survey. However, we made sure to write the survey questions in such a way that the survey could be taken by all focus groups in the future.
 
 ![Survey Results](./images/survey.jpg)
 
@@ -85,11 +87,11 @@ The user is given a set of cards and the user will try to sort cards with differ
 
 ![Survey Results](./images/cardsort.jpg)
 
-In terms of responses, I was able to figure out which donuts are preferred during each time of day. The regular donuts are wanted anytime, specialty donuts are wanted in the afternoon, and the dessert donuts are preferred either at night.
+In terms of responses, we were able to figure out which donuts are preferred during each time of day. The regular donuts are wanted anytime, specialty donuts are wanted in the afternoon, and the dessert donuts are preferred either at night.
 
 # Information Architecture
 
-Based on the research, I tried to understand more closely how the old site information was being organized. In this exercise, I realized the hierarchy does not always make sense to the user. 
+Based on the research, we tried to understand more closely how the old site information was being organized. In this exercise, we realized the hierarchy does not always make sense to the user. 
 
 Most users according to our personas aren't looking to apply to work there or are looking at ordering custom donuts. While deals do logically make sense in its current place, our users would prefer that to be in its own section because of the frequency that users are looking for deals. 
 
