@@ -1,17 +1,17 @@
 ---
 path: "/jupyter"
-cover: "./jupyter-interface.jpg"
+cover: "./single-document-mode.jpg"
 slug: "jupyter"
 date: "2019-06-24"
-title: "Jupyter Clarity"
+title: "Jupyter"
 published: true
 tags: ['User experience design', 'Visual design', 'Jobs To Be Done']
-excerpt: 'The next of generation Jupyter notebooks for all.'
+excerpt: "Building an atomic Jupyter frontend from scratch"
 ---
 
 # Situation
 
-Jupyter is an open source project that enables the sharing of interactive code-powered “Notebooks” with others. A recent example led [Paul Romer to win the Nobel Prize in economics by using a Jupyter Notebook.](https://qz.com/1417145/economics-nobel-laureate-paul-romer-is-a-python-programming-convert/).
+Jupyter is an open-source project that enables the sharing of interactive code-powered “Notebooks” with others. A recent example led [Paul Romer to win the Nobel Prize in economics by using a Jupyter Notebook.](https://qz.com/1417145/economics-nobel-laureate-paul-romer-is-a-python-programming-convert/).
 
 ![Diagram of existing Jupyter interfaces.](./images/test.jpg)
 
@@ -27,7 +27,7 @@ I worked in a team with Software Engineers Markelle Kelly and Marisa Aquilina. I
 Many users tend to prefer Classic Notebook compared to JupyterLab. Common complaints are that JupyterLab is too complicated and difficult to use. 
 
 ## Goals
-+ Uncover social and emotional needs of users
++ Uncover the social and emotional needs of users
 + Create an alterative interface using JupyterLab components that appeals to both new and established users. 
 
 # Action
