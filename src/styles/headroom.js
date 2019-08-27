@@ -1,4 +1,4 @@
-import { css } from 'react-emotion';
+import { css } from '@emotion/styled';
 import theme from '../../config/theme';
 
 const headroom = css`

@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import { ThemeProvider } from 'emotion-theming';
-import { injectGlobal } from 'react-emotion';
+import { injectGlobal } from '@emotion/styled';
 import PropTypes from 'prop-types';
 import { SEO } from 'components';
 import { NavBar, Footer } from 'layouts';

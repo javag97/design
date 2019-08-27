@@ -1,6 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import styled from 'react-emotion';
+import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import { Header } from 'components';
 import { Layout, Container } from 'layouts';
@@ -30,18 +30,32 @@ const Contact = center => (
          <Text>
             <img src={portrait} alt="Picture of Javier Garcia" />
             <div>
-               <h1>Current gig: UI/UX Intern @{' '}<a href="https://www.jupyter.org/" target="_blank">Jupyter</a></h1>
+               <h1>
+                  Current gig: UI/UX Intern @{' '}
+                  <a href="https://www.jupyter.org/" target="_blank">
+                     Jupyter
+                  </a>
+               </h1>
 
                <h2>Purpose</h2>
-               <p>Seeking full-time opportunities as a Product Designer that empowers others to better the human condition.</p>
+               <p>
+                  Seeking full-time opportunities as a Product Designer that
+                  empowers others to better the human condition.
+               </p>
 
                <h2>Identity</h2>
-               <p>He/him/his, designer, programmer, pop culture nerd, gamer, technology & matcha enthusiast.</p>
+               <p>
+                  He/him/his, designer, programmer, pop culture nerd, gamer,
+                  technology & matcha enthusiast.
+               </p>
 
                <h2>Stay updated on what I'm up to</h2>
-               <ul> 
+               <ul>
                   <li>
-                     <a href="https://www.linkedin.com/in/javigme" target="_blank">
+                     <a
+                        href="https://www.linkedin.com/in/javigme"
+                        target="_blank"
+                     >
                         LinkedIn
                      </a>
                   </li>
@@ -56,7 +70,10 @@ const Contact = center => (
                      </a>
                   </li>
                   <li>
-                     <a href="https://www.behance.net/javiergarc2096" target="_blank">
+                     <a
+                        href="https://www.behance.net/javiergarc2096"
+                        target="_blank"
+                     >
                         Behance
                      </a>
                   </li>
@@ -64,10 +81,17 @@ const Contact = center => (
                      <a href="mailto:javier.garcia549@gmail.com">
                         javier.garcia549@gmail.com
                      </a>
-                  </li>   
+                  </li>
                </ul>
                <h4>In an alternate universe, I produced these sick tracks.</h4>
-               <iframe src="https://open.spotify.com/embed/playlist/61KudAxwNRzpWrg839LdgN" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+               <iframe
+                  src="https://open.spotify.com/embed/playlist/61KudAxwNRzpWrg839LdgN"
+                  width="100%"
+                  height="380"
+                  frameBorder="0"
+                  allowtransparency="true"
+                  allow="encrypted-media"
+               ></iframe>
             </div>
          </Text>
       </TwoColumn>

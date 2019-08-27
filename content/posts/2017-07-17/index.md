@@ -62,27 +62,14 @@ Common Observations Across Two Different Usability Assessments:
 ## Interviewing Users
 Based on where SLODOCO makes the most revenue, it would make the most sense to interview someone from every customer segment. In order to get data that is representative of the population, qualitative data will be collected at different times throughout the day. 
 
-<<<<<<< HEAD
-Before asking participants questions, we had them do a 3 minute priming activity to write or draw anything regarding donuts. After they finish, they asked about what they created and for what reasons.
-
-From talking to two participants, we affirmed our beliefs:
-+ No one likes waiting in lines. 
-=======
 ### Summary of Findings
 + No one likes waiting in lines
->>>>>>> 9892aad622b84bcd999065309e263c8d9a5f7025
 + The target demographic is typically health-conscious and community-oriented
 + Customers of SLODOCO don’t regularly eat donuts
 + Customers enjoy the social experience that comes with buying a donut 
 
 ## Survey
-<<<<<<< HEAD
-
-When we interviewed the manager of SLODOCO for our Business Canvas Model, they explained how focusing on tourists would
-be beneficial for our research as it would gather many different perspectives. SLODOCO also is aiming to expand their customer base, and tourists are a perfect group to spread the word about the business. 
-=======
 When I interviewed the manager of SLODOCO for our Business Canvas Model, they explained how focusing on tourists would be beneficial for our research as it would gather many different perspectives. SLODOCO also is aiming to expand its customer base, and tourists are a perfect group to spread the word about the business. 
->>>>>>> 9892aad622b84bcd999065309e263c8d9a5f7025
 
 Because of these reasons, we felt it would be effective to focus on tourists for this survey. However, we made sure to write the survey questions in such a way that the survey could be taken by all focus groups in the future.
 

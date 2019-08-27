@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'react-emotion';
+import styled from '@emotion/styled';
 import { Link } from 'gatsby';
 import { StaticQuery, graphql } from 'gatsby';
 
@@ -47,11 +47,10 @@ const Footer = () => (
          <Wrapper>
             <Text>
                {data.allMarkdownRemark.edges.map(({ node }) => (
-                     <Link key={node.id} to={node.frontmatter.path}>
-                        {node.frontmatter.title}
-                        {String.fromCharCode(8195)}
-                     </Link>
-                     
+                  <Link key={node.id} to={node.frontmatter.path}>
+                     {node.frontmatter.title}
+                     {String.fromCharCode(8195)}
+                  </Link>
                ))}
             </Text>
          </Wrapper>

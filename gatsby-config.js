@@ -58,14 +58,7 @@ module.exports = {
         pathToConfigModule: 'config/typography.js',
       },
     },
-    {
-      resolve: `gatsby-plugin-sharp`,
-      options: {
-        useMozJpeg: false,
-        stripMetadata: true,
-        defaultQuality: 75,
-      },
-    },
+    'gatsby-plugin-sharp',
     'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-manifest',

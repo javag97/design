@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'react-emotion';
+import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 
 const Wrapper = styled.section`
@@ -18,7 +18,7 @@ const Wrapper = styled.section`
    }
    @media (max-width: ${props => props.theme.breakpoints.s}) {
       width: 95%;
-      margin: auto; 
+      margin: auto;
    }
    max-width: ${props => props.theme.layout[props.type]};
    height: 100%;

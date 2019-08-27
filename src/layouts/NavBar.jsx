@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import styled from 'react-emotion';
+import styled from '@emotion/styled';
 import Headroom from 'react-headroom';
 
 const StyledLink = styled(Link)`
@@ -8,7 +8,7 @@ const StyledLink = styled(Link)`
    align-items: center;
    font-weight: 700;
    align-items: center;
-   color:white;
+   color: white;
    text-transform: uppercase;
    letter-spacing: 0.15em;
 `;
