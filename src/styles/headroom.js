@@ -1,7 +1,7 @@
-import { css } from '@emotion/styled';
+import styled from '@emotion/styled';
 import theme from '../../config/theme';
 
-const headroom = css`
+const headroom = styled`
    .headroom-wrapper {
       position: fixed;
       width: 100%;

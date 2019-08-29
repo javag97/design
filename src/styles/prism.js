@@ -1,7 +1,7 @@
-import { css } from '@emotion/styled';
+import styled from '@emotion/styled';
 import theme from '../../config/theme';
 
-const prism = css`
+const prism = styled`
    p > code,
    li > code {
       color: #f8f8f2;

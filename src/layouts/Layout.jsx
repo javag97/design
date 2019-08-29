@@ -1,13 +1,13 @@
 import React, { Fragment } from 'react';
 import { ThemeProvider } from 'emotion-theming';
-import { injectGlobal } from '@emotion/styled';
+import { Global } from '@emotion/core';
 import PropTypes from 'prop-types';
 import { SEO } from 'components';
 import { NavBar, Footer } from 'layouts';
 import theme from '../../config/theme';
 import headroom from '../styles/headroom';
 
-injectGlobal`
+Global`
 
   *, *:before, *:after {
     box-sizing: inherit;
@@ -51,12 +51,12 @@ injectGlobal`
 
 const Layout = ({ children }) => (
    <ThemeProvider theme={theme}>
-      <Fragment>
+      <>
          <SEO />
          <NavBar />
          {children}
          <Footer />
-      </Fragment>
+      </>
    </ThemeProvider>
 );
 
